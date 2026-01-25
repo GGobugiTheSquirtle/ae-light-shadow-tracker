@@ -1,5 +1,6 @@
 import { useChecklistStore } from '../store/checklistStore';
 import type { ChecklistEntry } from '../types';
+import { translateText } from '../i18n';
 import './CheckItem.css';
 
 interface CheckItemProps {
@@ -38,7 +39,7 @@ export function CheckItem({ entry, weaponId, sourceId }: CheckItemProps) {
         />
       )}
 
-      <span className="item-label">{entry.label}</span>
+      <span className="item-label">{translateText(entry.label)}</span>
 
       {entry.quantity > 1 && (
         <span className="item-quantity">×{entry.quantity}</span>

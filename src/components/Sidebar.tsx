@@ -1,4 +1,5 @@
 import { useChecklistStore } from '../store/checklistStore';
+import { translateWeapon, t } from '../i18n';
 import type { ChecklistType } from '../types';
 import './Sidebar.css';
 
@@ -34,8 +35,8 @@ export function Sidebar() {
   return (
     <aside className="sidebar">
       <div className="sidebar-header">
-        <h1>Another Eden</h1>
-        <p className="subtitle">Light & Shadow Tracker</p>
+        <h1>{t('title')}</h1>
+        <p className="subtitle">{t('subtitle')}</p>
       </div>
 
       <div className="type-tabs">
@@ -43,19 +44,19 @@ export function Sidebar() {
           className={`type-tab ${currentType === 'guiding-light' ? 'active' : ''}`}
           onClick={() => handleTypeChange('guiding-light')}
         >
-          ✨ Guiding Light
+          ✨ {t('guidingLight')}
         </button>
         <button
           className={`type-tab ${currentType === 'luring-shadow' ? 'active' : ''}`}
           onClick={() => handleTypeChange('luring-shadow')}
         >
-          🌑 Luring Shadow
+          🌑 {t('luringShadow')}
         </button>
       </div>
 
       <div className="overall-progress">
         <div className="progress-label">
-          <span>Overall Progress</span>
+          <span>{t('overallProgress')}</span>
           <span>{overallProgress.completed} / {overallProgress.total}</span>
         </div>
         <div className="progress-bar">
@@ -76,7 +77,7 @@ export function Sidebar() {
           onClick={() => setCurrentWeapon(null)}
         >
           <span className="weapon-icon">📋</span>
-          <span className="weapon-name">All Weapons</span>
+          <span className="weapon-name">{t('allWeapons')}</span>
         </button>
 
         {data?.weapons.map((weapon) => {
@@ -92,7 +93,7 @@ export function Sidebar() {
               onClick={() => setCurrentWeapon(weapon.id)}
             >
               <span className="weapon-icon">{WEAPON_ICONS[weapon.weapon] || '⚔️'}</span>
-              <span className="weapon-name">{weapon.weapon}</span>
+              <span className="weapon-name">{translateWeapon(weapon.weapon)}</span>
               <span className="weapon-progress">{percentage}%</span>
             </button>
           );

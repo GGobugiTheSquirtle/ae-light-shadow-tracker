@@ -2,6 +2,7 @@ import { useState } from 'react';
 import type { WeaponChecklist } from '../types';
 import { SourceSection } from './SourceSection';
 import { useChecklistStore } from '../store/checklistStore';
+import { translateWeapon } from '../i18n';
 import './WeaponSection.css';
 
 const WEAPON_ICONS: Record<string, string> = {
@@ -37,7 +38,7 @@ export function WeaponSection({ weapon }: WeaponSectionProps) {
       >
         <span className={`chevron ${collapsed ? '' : 'expanded'}`}>▶</span>
         <span className="weapon-icon-large">{WEAPON_ICONS[weapon.weapon] || '⚔️'}</span>
-        <h2 className="weapon-title">{weapon.weapon}</h2>
+        <h2 className="weapon-title">{translateWeapon(weapon.weapon)}</h2>
         <div className="weapon-progress-info">
           <span className="weapon-count">{progress.completed}/{progress.total}</span>
           <div className="weapon-progress-bar">

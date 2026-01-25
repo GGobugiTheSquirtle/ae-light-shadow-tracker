@@ -2,6 +2,7 @@ import { useState } from 'react';
 import type { ChecklistSource } from '../types';
 import { CheckItem } from './CheckItem';
 import { useChecklistStore } from '../store/checklistStore';
+import { translateSource } from '../i18n';
 import './SourceSection.css';
 
 interface SourceSectionProps {
@@ -29,7 +30,7 @@ export function SourceSection({ source, weaponId }: SourceSectionProps) {
         onClick={() => setCollapsed(!collapsed)}
       >
         <span className={`chevron ${collapsed ? '' : 'expanded'}`}>▶</span>
-        <span className="source-name">{source.name}</span>
+        <span className="source-name">{translateSource(source.name)}</span>
         <span className="source-progress">
           {completed}/{total}
           <span className="source-percentage">({percentage}%)</span>
