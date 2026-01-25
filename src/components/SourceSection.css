@@ -1,0 +1,62 @@
+.source-section {
+  margin-bottom: 4px;
+}
+
+.source-section.complete .source-header {
+  opacity: 0.6;
+}
+
+.source-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  padding: 10px 12px;
+  background: var(--bg-secondary);
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.15s ease;
+  text-align: left;
+}
+
+.source-header:hover {
+  background: var(--hover);
+}
+
+.source-header .chevron {
+  font-size: 10px;
+  color: var(--text-muted);
+  transition: transform 0.2s ease;
+}
+
+.source-header .chevron.expanded {
+  transform: rotate(90deg);
+}
+
+.source-name {
+  flex: 1;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text);
+}
+
+.source-progress {
+  font-size: 12px;
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.source-percentage {
+  font-size: 11px;
+  opacity: 0.7;
+}
+
+.source-entries {
+  padding: 4px 0 4px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}

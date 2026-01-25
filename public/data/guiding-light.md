@@ -1,0 +1,804 @@
+# Guiding Light
+
+
+## Guiding Light (Ax) = 88
+
+- The 1000 Year Ark of the Ocean Palace (10)
+  - Collect 30,000 Atlantis Pearls: Gaiden_shiela.png, 2
+  - Collect 142,500 Atlantis Pearls: Gaiden_shiela.png, 2
+  - Collect 375,000 Atlantis Pearls: Gaiden_shiela.png, 3
+  - Collect 900,000 Atlantis Pearls: Gaiden_shiela.png, 3
+- The Time Mine and the Dreamers (5)
+  - Chest in Mine 2: Standard_rare.png, 5
+- Foreign Skies and the Ship to Freedom (10)
+  - Chest in Chapter 1: Standard_rare.png, 1
+  - Chest in Chapter 3: Standard_rare.png, 1
+  - Chest in Chapter 4: Standard_rare.png, 1
+  - Chest in Chapter 5: Standard_rare.png, 2
+  - Give Metallic Maiden's Bone № 2 to Dog  4. Chapter 6: None, 2
+  - Give Metallic Maiden's Bone № 7 to Dog  4. Chapter 6: None, 3
+- The Lost Tome and the Silver Unfading Flower (10)
+  - Gather 4,500 Seeker Points: Gaiden_seeker.png, 2
+  - Gather 25,000 Seeker Points: Gaiden_seeker.png, 2
+  - Gather 51,000 Seeker Points: Gaiden_seeker.png, 3
+  - Gather 83,000 Seeker Points: Gaiden_seeker.png, 3
+- Complex Dream (3)
+  - Blue Chest in Unigalna, Inside Castle Wall (right gate), use Castle Wall Key: Standard_rare.png, 3
+- Wanderer in the Vortex (2)
+  - Thundering Fortress - Defense Base (left from bottom exit): Standard_rare.png, 1
+  - Thundering Fortress - Central Base (top-right, behind locked gates): Standard_rare.png, 1
+- Awards/Other (14)
+  - Collect 7,500 Chaos Fragments: Copper_Rank_Badge.png, 3
+  - Collect 57,300 Chaos Fragments: Copper_Rank_Badge.png, 5
+  - Collect 1,000 Lazuline Stones: Copper_Rank_Badge.png, 2
+  - Collect 1,000 Levin Fragments: Copper_Rank_Badge.png, 2
+  - Collect 16,000 Levin Fragments: Copper_Rank_Badge.png, 2
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 1 (2)
+  - Dierkuul Island - Factory Tower (second floor, top-right): Standard_rare.png, 2
+- Cradle of Time (2)
+  - Gather 160 Arboreal Tear: None, 1
+  - Gather 1,000 Arboreal Tear: None, 1
+- Astral Archive (9)
+  - Defeat the Seal Monster Papa Macminal and Clear all Pledges Pledge: without any ally deploying a Zone: Tomes.png, 1
+  - Defeat the Seal Monster VH Papa Macminal and Clear all Pledges Pledge: with 4 or fewer allies: Tomes.png, 2
+  - Defeat the Seal Monster Gail Carrigo and Clear all Pledges Pledge: with 1 or more Ax allies: Tomes.png, 1
+  - Defeat the Seal Monsters VH Gail Carrigo and Clear all Pledges Pledge: with 1 or more Cat lover allies: Tomes.png, 2
+  - Repair Level 8 Reached: Tomes.png, 1
+  - Repair Level 48 Reached: Tomes.png, 1
+  - Repair Level 68 Reached: Tomes.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 2 (4)
+  - Return Machina Wyrm Heart to the Treasure Hunter Association: Standard_rare.png, 2
+  - Diving: Map to the Purrate Ship #11: None, 2
+- Octolight Conductors: The Prisoner's Odyssey (1)
+  - Atratt Manor Underground Path Chest: Standard_rare.png, 1
+- The Mists of Myth - Wryz Saga III (2)
+  - Wyrmking's Domain (requires Deep Dive): Standard_rare.png, 2
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 3 (3)
+  - Illusory Medal Misprints -: 55: Key_item.png, 2
+  - Laika: bottom-center (found: The Sleeping Pearl Deck ): None, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 4 (1)
+  - Dimensional Fortress Chronos (map before one with 2nd elevator): Standard_rare.png, 1
+- Where Light Does Not Fall (1)
+  - Lost Sector - Ward D NW Chest: Standard_rare.png, 1
+- Phantom Crystal Dimension (5)
+  - Other: 2,000 Paw Stamps: None, 5
+- Toto Theater World (Another Dungeon) (1)
+  - T. Toto's Sabre : use at Sword Pedestal in Magical Forest: Standard_rare.png, 1
+- Papa Macminal (0)
+  - Pledge: without any ally deploying a Zone: None, 1
+- Papa Macminal (0)
+  - Pledge: with 4 or fewer allies: None, 2
+- Gail Carrigo (0)
+  - Pledge: with 1 or more Ax allies: None, 1
+- Gail Carrigo (0)
+  - Pledge: with 1 or more Cat lover allies: None, 2
+
+
+## Guiding Light (Bow) = 132
+
+- The Time Mine and the Dreamers (5)
+  - Chest in Mine 2: Standard_rare.png, 5
+- Foreign Skies and the Ship to Freedom (10)
+  - Chest in Chapter 2: Standard_rare.png, 1
+  - Chest in Chapter 3: Standard_rare.png, 1
+  - Chest in Chapter 5: Standard_rare.png, 1
+  - Chest in Chapter 6: Standard_rare.png, 2
+  - Give Metallic Maiden's Bone № 3 to Dog 1. Chapters 1,3,5,6: None, 2
+  - Give Metallic Maiden's Bone № 10 to Dog  4. Chapter 6: None, 3
+- IDA School Part 3: Fruit of Guidance and the Lost Digital Child (15)
+  - Hismena's Dream World 3F Chest: Standard_rare.png, 3
+  - Hismena's Dream World 4F Chest: Standard_rare.png, 2
+  - Achieve Friend Rank 3 with 13 Friend(s).: Gift_mail.png, 5
+  - Achieve Friend Rank 3 with 23 Friend(s).: Gift_mail.png, 5
+- Complex Dream (3)
+  - Blue Chest. Underground Fortress - Outdoor Passage. Mirror rooms riddle: Standard_rare.png, 3
+- Wanderer in the Vortex (7)
+  - The Tower Argentauri - Disposal Sector 1F (left), behind horror: Standard_rare.png, 1
+  - The Tower Argentauri - Aurum (right), in Food Storage, behind hidden wall: put  Homunculus from Disposal Sector in cage: Standard_rare.png, 1
+  - The Tower Argentauri - Aurum (right-middle), in Food Storage: Standard_rare.png, 1
+  - Kelkale Palace - Library (use bookshelf to unlock hidden room): Standard_rare.png, 2
+  - Mercy Keep - Basement - "3 chests room" (from bottom of 3F, down through right-side of Keep, needs all levers\chains to access: Standard_rare.png, 2
+- Awards/Other (12)
+  - Collect 3,000 Platina Fragments: Copper_Rank_Badge.png, 2
+  - Collect 7,000 Jade Fragments: Copper_Rank_Badge.png, 2
+  - Collect 23,000 Platina Fragments: Copper_Rank_Badge.png, 2
+  - Collect 29,000 Jade Fragments: Copper_Rank_Badge.png, 2
+  - Collect 7,000 Seven-Color Fragments: Copper_Rank_Badge.png, 2
+  - Collect 29,000 Seven-Color Fragments: Copper_Rank_Badge.png, 2
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 1 (2)
+  - Flotsam Isle (top, near climb to mount, requires <Super Alloy Arm> ability): Standard_rare.png, 2
+- Cradle of Time (2)
+  - Gather 660 Arboreal Tear: None, 2
+- Mysterious Vortex - Warped Cochlea (Another Dungeon) (4)
+  - Collect 22,100 Time Spindle: Gaiden_wandergirl.png, 4
+- Astral Archive (11)
+  - Help the boy confess in Atratt Manor Grounds: Tomes.png, 1
+  - Trial by Combat: Challenge Travelers' Curse: Tomes.png, 1
+  - Clear the Subquest "The Search for Sweets" in Elzion: Tomes.png, 1
+  - Trial by Combat: Challenge Karna Genesis: Tomes.png, 1
+  - Defeat the Seal Monster Berserk Beast King and Berserk Beast Neo Angurius and Clear all Pledges Pledge: with Guildna in the party: Tomes.png, 1
+  - Defeat the Seal Monster VH Berserk Beast King and Berserk Beast Neo Angurius and Clear all Pledges Pledge: with no allies getting knocked out: Tomes.png, 2
+  - Repair Level 12 Reached: Tomes.png, 1
+  - Repair Level 32 Reached: Tomes.png, 1
+  - Repair Level 52 Reached: Tomes.png, 1
+  - Repair Level 72 Reached: Tomes.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 2 (2)
+  - Diving: Map to the Purrate Ship #14: None, 2
+- Octolight Conductors: The Prisoner's Odyssey (13)
+  - Clear Sigma District Quiz: Standard_rare.png, 2
+  - Paupers' Cave (Night) - Scrutinize Old Laborer and purple glow next to him: Standard_rare.png, 1
+  - Gather 26,100 Traveler's Log: Collabo06.png, 5
+  - Gather 232,000 Traveler's Log: Collabo06.png, 5
+- The Cliffs of Wyrmrest - Wryz Saga I (4)
+  - Windfang Plains Cave (Behind Gust Ruler ): Standard_rare.png, 4
+- The Mists of Myth - Wryz Saga III (2)
+  - Darkrealm - Dead Tree Path (requires Fire): Standard_rare.png, 2
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 3 (2)
+  - Illusory Medal Misprints -: 15: Key_item.png, 2
+- Shadow of Sin and Steel (4)
+  - Izuna's Secret Hideout ( Mt. Kamukura 7th screen, top left hidden path): Standard_rare.png, 2
+  - Cat Shrine Underground 2nd screen, top left: Standard_rare.png, 1
+  - Cat Shrine Underground 3rd screen, bottom middle: Standard_rare.png, 1
+- Meigoku (Another Dungeon) (8)
+  - Collect 4,800 Sunstruck Alabaster: Toho_gaiten_7_token.png, 3
+  - Collect 20,700 Sunstruck Alabaster: Toho_gaiten_7_token.png, 5
+- Crystal of Wisdom and the Secret Castle (13)
+  - Lonely Castle 3F (Steps in Farmland - Young Lady Request): Standard_rare.png, 3
+  - Gather 18,200 Blended Wisdom: Collabo08.png, 5
+  - Gather 120,000 Blended Wisdom: Collabo08.png, 5
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 4 (1)
+  - Edax Moonlight Forest Edge, right: Standard_rare.png, 1
+- Phantom Crystal Dimension (5)
+  - Other: 2,600 Paw Stamps: None, 5
+- Berserk Beast King and Berserk Beast Neo Angurius (0)
+  - Pledge: with Guildna in the party: None, 1
+- Berserk Beast King and Berserk Beast Neo Angurius (0)
+  - Pledge: with no allies getting knocked out: None, 2
+
+
+## Guiding Light (Fists) = 147
+
+- The Apex of Logic and Cardinal Scales (1)
+  - Minigame: Collect 1,200 Part-time Stickers: None, 1
+- The Time Mine and the Dreamers (5)
+  - Chest in Mine 3: Standard_rare.png, 5
+- The Cat Beyond its Territory (5)
+  - Cats : Chest in Serena Coast: Standard_rare.png, 5
+- Tales from the East. Return of the Goddess of Time. Volume 3: Conclusion (5)
+  - Tree Growing hidden quest in Pador, behind Inn, 4th layer: Standard_rare.png, 5
+- Wanderer in the Vortex (5)
+  - Reward from NPC in sidequest Repairing Bonds: Apocrypha_quest.png, 2
+  - Forest of Whispers - Highland S (use hooked rope in top-right corner): Standard_rare.png, 1
+  - Dust City - Forbidden Lane - Lab (bottom left, behind surveillance drone, disable with button on top of map): Standard_rare.png, 1
+  - Dust City - Forbidden Lane - Lab (behind middle Purple keycard door, left Lab): Standard_rare.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 1 (4)
+  - Strissal Highlands Layer 3 (bottom right-corner, requires getting valve from layer 2 jump to the right to open passage: Standard_rare.png, 2
+  - Diving: Legendary Treasure Map - #15: None, 2
+- Awards/Other (10)
+  - Collect 1,000 Immaculate Fragments: Copper_Rank_Badge.png, 2
+  - Collect 7,000 Immaculate Fragments: Copper_Rank_Badge.png, 2
+  - Collect 7,000 Dawn Fragments: Copper_Rank_Badge.png, 2
+  - Collect 29,000 Immaculate Fragments: Copper_Rank_Badge.png, 2
+  - Collect 29,000 Dawn Fragments: Copper_Rank_Badge.png, 2
+- Cradle of Time (2)
+  - Gather 840 Arboreal Tear: None, 2
+- Astral Archive (28)
+  - Defeat the Seal Monster Comrade's Reflection Cerrine and Clear all Pledges Pledge: within 3 turns: Tomes.png, 1
+  - Defeat the Seal Monster VH Comrade's Reflection Cerrine and Clear all Pledges Pledge: without using Another Force: Tomes.png, 2
+  - Trial by Combat: Challenge Spurring Cerrine: Tomes.png, 3
+  - Trial by Combat: Challenge Phantom Rugal: Tomes.png, 3
+  - Defeat the Seal Monster Phantom Rugal and Clear all Pledges Pledge: Clear with 1 or more KOF allies: Tomes.png, 2
+  - Defeat the Seal Monster Phantom Rugal and Clear all Pledges Pledge: Clear with no allies getting knocked out: Tomes.png, 1
+  - Witness a family reunion in Paupers' Cave: Tomes.png, 1
+  - Trial by Combat: Challenge Travelers' Curse: Tomes.png, 1
+  - Defeat Ω Rugal in Tournament Battle Phase within 8 turns: Tomes.png, 4
+  - Defeat the Seal Monster VH Synth Drone and Clear all Pledges Pledge: after 10 or more turns Pledge: with no allies getting knocked out: Tomes.png, 2
+  - Defeat the Seal Monster Synth Drone and Clear all Pledges Pledge: with 2 or more Fire allies: Tomes.png, 1
+  - Defeat the Seal Monster VH Gidrun and clear all Pledges Pledge: with Ashtear in the party: Tomes.png, 2
+  - Defeat the Seal Monster Gidrun and clear all Pledges Pledge: with 1 or more Glasses allies: Tomes.png, 1
+  - Repair Level 14 Reached: Tomes.png, 1
+  - Repair Level 34 Reached: Tomes.png, 1
+  - Repair Level 54 Reached: Tomes.png, 1
+  - Repair Level 74 Reached: Tomes.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 2 (2)
+  - Diving: Lost Delivery Map #1: None, 2
+- Octolight Conductors: The Prisoner's Odyssey (13)
+  - Truth about Lucas: Standard_rare.png, 2
+  - Atratt Manor Entry Hall - Scrutinize Butler and purple glow next to him: Standard_rare.png, 1
+  - Gather 18,200 Traveler's Log: Collabo06.png, 5
+  - Gather 46,900 Traveler's Log: Collabo06.png, 5
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 3 (2)
+  - Magic Ore Tunnels (2nd Area, requires field magic): Standard_rare.png, 2
+- The King of Fighters: Another Bout (43)
+  - Darkest Noah (Past) - Row 4 Far Right Room: Standard_rare.png, 1
+  - Darkest Noah (Past) - Top Row Far Right Room -> Hidden Path to Room: Standard_rare.png, 1
+  - Darkest Noah (Past) - Top Row Middle Left Room: Standard_rare.png, 1
+  - Gather 5,200 Fighting Spirit: Collabo07.png, 5
+  - Gather 10,500 Fighting Spirit: Collabo07.png, 5
+  - Gather 18,200 Fighting Spirit: Collabo07.png, 5
+  - Gather 26,100 Fighting Spirit: Collabo07.png, 5
+  - Gather 41,600 Fighting Spirit: Collabo07.png, 5
+  - Gather 57,300 Fighting Spirit: Collabo07.png, 5
+  - Gather 112,100 Fighting Spirit: Collabo07.png, 5
+  - Gather 232,000 Fighting Spirit: Collabo07.png, 5
+- Burning Kurosagi Castle (Another Dungeon) (8)
+  - Collect 7,500 Moonstruck Obsidian: Toho_gaiten_3_token.png, 3
+  - Collect 24,900 Moonstruck Obsidian: Toho_gaiten_3_token.png, 5
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 4 (1)
+  - Edax Airport, middle 2nd row from top, to right through hidden path: Standard_rare.png, 1
+- Phantom Crystal Dimension (5)
+  - Other: 400 Paw Stamps: None, 5
+- Comrade's Reflection Cerrine (0)
+  - Pledge: within 3 turns: None, 1
+- Comrade's Reflection Cerrine (0)
+  - Pledge: without using Another Force: None, 2
+- Phantom Rugal (0)
+  - Pledge: Clear with 1 or more KOF allies: None, 2
+- Phantom Rugal (0)
+  - Pledge: Clear with no allies getting knocked out: None, 1
+- Synth Drone (0)
+  - Pledge: after 10 or more turns: None, 1
+  - Pledge: with no allies getting knocked out: None, 2
+- Synth Drone (0)
+  - Pledge: with 2 or more Fire allies: None, 1
+- Gidrun (0)
+  - Pledge: with Ashtear in the party: None, 2
+- Gidrun (0)
+  - Pledge: with 1 or more Glasses allies: None, 1
+
+
+## Guiding Light (Hammer) = 87
+
+- The Apex of Logic and Cardinal Scales (3)
+  - Exchange: Wasteland House - Researcher Shop - 2x500 Wasteland Antibodies: None, 2
+  - Wasteland Channel Sector B1 (bottom-left, 1 Neutralizer to remove 1 rubble): Standard_rare.png, 1
+- The Time Mine and the Dreamers (10)
+  - Obtain your first Rope: Gift_mail.png, 5
+  - Obtain your first Potion: Gift_mail.png, 5
+- The Celestial Tower and the Shadow Witch (10)
+  - Collect 32,500 Dark Residue: Gaiden_medousa.png, 2
+  - Collect 132,500 Dark Residue: Gaiden_medousa.png, 2
+  - Collect 345,000 Dark Residue: Gaiden_medousa.png, 3
+  - Collect 722,500 Dark Residue: Gaiden_medousa.png, 3
+- The Closed-off Open World and the Azure Rebel (10)
+  - Collect 38,500 Time Layers Force: Gaiden_galiard.png, 2
+  - Collect 121,000 Time Layers Force: Gaiden_galiard.png, 2
+  - Collect 221,000 Time Layers Force: Gaiden_galiard.png, 3
+  - Collect 321,000 Time Layers Force: Gaiden_galiard.png, 3
+- Tales from the East. Return of the Goddess of Time. Volume 3: Conclusion (5)
+  - Tree Growing hidden quest in Pador, behind Inn, 3rd layer: Standard_rare.png, 5
+- Heroes of Bygone Days and the Engraved Oath (7)
+  - Left end of the top path in the bottom gate area: Standard_rare.png, 2
+  - Trial: Clear the Trial Home's Lost Atelier - Graveyard within 15 minutes: None, 5
+- Awards/Other (5)
+  - Collect 3500 Pale Scarlet Stones: Copper_Rank_Badge.png, 2
+  - Collect 1,000 Sapient Illusions: Copper_Rank_Badge.png, 3
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 1 (4)
+  - Lightspark Hollow Layer 5 - (first area, bottom-middle): Standard_rare.png, 2
+  - Barkhelm (middle left, in hidden area): Standard_rare.png, 2
+- Cradle of Time (2)
+  - Gather 280 Arboreal Tear: None, 1
+  - Gather 1,000 Arboreal Tear: None, 1
+- Mysterious Vortex - Warped Cochlea (Another Dungeon) (4)
+  - Collect 40,500 Time Spindle: Gaiden_wandergirl.png, 4
+- Astral Archive (12)
+  - Defeat the Seal Monster Galliard and Clear all Pledges Pledge: within 15 turns: Tomes.png, 1
+  - Defeat the Seal Monster VH Galliard and Clear all Pledges Pledge: with 4 or fewer allies: Tomes.png, 2
+  - Defeat the Seal Monster Ghastly Mizuchi and Clear all Pledges Pledge: without using Another Force: Tomes.png, 1
+  - Defeat the Seal Monsters VH Ghastly Mizuchi and Clear all Pledges Pledge: with 3 or fewer 5-star class allies: Tomes.png, 2
+  - Defeat the Memory Ice Jailer and Clear all Pledges Pledge: with no allies getting knocked out: Tomes.png, 1
+  - Defeat the Memory Ice Jailer and Clear all Pledges Pledge: Without any ally deploying a Zone: Tomes.png, 2
+  - Repair Level 17 Reached: Tomes.png, 1
+  - Repair Level 37 Reached: Tomes.png, 1
+  - Repair Level 57 Reached: Tomes.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 2 (2)
+  - Diving: Wandering Miu's Map #6: None, 2
+- Octolight Conductors: The Prisoner's Odyssey (1)
+  - Bring a Lost Man to his Supervisor: Standard_rare.png, 1
+- A Paradise of Imperfections (1)
+  - Proto Eden - Lab Division 2 (middle, behind blue blockade): Standard_rare.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 3 (3)
+  - Illusory Medal Misprints -: 70: Key_item.png, 2
+  - Magic Ore Tunnels (2nd Area): Standard_rare.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 4 (3)
+  - Edax Abyss - Geometria (map marked by bottom left exclamation mark): Standard_rare.png, 1
+  - Edax Spark Forge A Line, top right: Standard_rare.png, 2
+- Phantom Crystal Dimension (5)
+  - Other: 1,340 Paw Stamps: None, 5
+- Galliard (0)
+  - Pledge: within 15 turns: None, 1
+- Galliard (0)
+  - Pledge: with 4 or fewer allies: None, 2
+- Ghastly Mizuchi (0)
+  - Pledge: without using Another Force: None, 1
+- Ghastly Mizuchi (0)
+  - Pledge: with 3 or fewer 5-star class allies: None, 2
+- Ice Jailer (0)
+  - Pledge: with no allies getting knocked out: None, 1
+- Ice Jailer (0)
+  - Pledge: Without any ally deploying a Zone: None, 2
+
+
+## Guiding Light (Katana) = 116
+
+- The Apex of Logic and Cardinal Scales (4)
+  - Exchange: Toto Dream Ocean Shop - 10 Toto Dream Ocean Point: None, 3
+  - Minigame: Collect 900 Part-time Stickers: None, 1
+- The Time Mine and the Dreamers (5)
+  - Chest in Mine 3: Standard_rare.png, 5
+- The Cat Beyond its Territory (5)
+  - Cats : Chest in Serena Coast: Standard_rare.png, 5
+- Crown of the Pale Dawn (4)
+  - Gather 61,000 Dream Petals: Collabo05.png, 4
+- Tales from the East. Return of the Goddess of Time. Volume 3: Conclusion (5)
+  - Tree Growing hidden quest in Pador, behind Inn, 5th layer: Standard_rare.png, 5
+- Complex Dream (10)
+  - Collect 10,500 Growth Star: Collabo_chrono_cross.png, 5
+  - Collect 172,000 Growth Star: Collabo_chrono_cross.png, 5
+- Wanderer in the Vortex (2)
+  - Mercy Keep - Basement - "3 chests room" (from bottom of 3F, down through right-side of Keep, needs all levers\chains to access: Standard_rare.png, 2
+- Awards/Other (9)
+  - Cleared Quest "Symphony: Complex Dream" on veteran: Silver_Rank_Badge.png, 5
+  - Collect 1,000 Seven-Color Fragments: Copper_Rank_Badge.png, 2
+  - Collect 16,000 Seven-Color Fragments: Copper_Rank_Badge.png, 2
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 1 (5)
+  - Lightspark Hollow Layer 1 - (shortcut from Layer 5, bottom-middle): Standard_rare.png, 2
+  - Rulezzo Underground Lake (jump down from Strissal Highlands Layer 2 to the right): Standard_rare.png, 2
+  - Diving: Legendary Treasure Map - #4: None, 1
+- Cradle of Time (2)
+  - Gather 460 Arboreal Tear: None, 2
+- Astral Archive (28)
+  - Trial by Combat: Challenge Preeminent Azami: Tomes.png, 3
+  - Defeat the Seal Monster VH Comrade's Reflection Azami and Clear all Pledges Pledge: without using Another Force: Tomes.png, 2
+  - Defeat the Seal Monster Comrade's Reflection Azami and Clear all Pledges Pledge: within 3 turns: Tomes.png, 1
+  - Defeat the Seal Monster VH Dark Salamander and Clear all Pledges Pledge: with 2 or more Water allies: Tomes.png, 2
+  - Defeat the Seal Monster Dark Salamander and Clear all Pledges Pledge: with 4 or more Light allies: Tomes.png, 1
+  - Defeat the Seal Monster Hell Ogre, Death Ogre and Clear all Pledges Pledge: within 5 turns: Tomes.png, 1
+  - Defeat the Seal Monster VH Hell Ogre, Death Ogre and Clear all Pledges Pledge: with Cyrus in the party Pledge: with 4 or fewer allies: Tomes.png, 2
+  - Defeat the Seal Monster Karakuri and Clear all Pledges Pledge: with 2 or more Katana allies: Tomes.png, 1
+  - Defeat the Seal Monsters VH Karakuri and Clear all Pledges Pledge: within 5 turns: Tomes.png, 2
+  - Defeat the Seal Monster Miroku Disaster and Clear all Pledges Pledge: with only Normal Style alles Pledge: with 4 or fewer allies: Tomes.png, 1
+  - Defeat the Seal Monsters VH Miroku Disaster and Clear all Pledges Pledge: with only non-Gallery allies: Tomes.png, 2
+  - Defeat the Seal Monster VH Karakuri War Demon and clear all Pledges Pledge: without any ally deploying a Zone: Tomes.png, 2
+  - Defeat the Seal Monster Karakuri War Demon and clear all Pledges Pledge: with 1 or more Eastern allies: Tomes.png, 1
+  - Defeat the Memory Rooted Spectortoise and Clear all Pledges Pledge: without using Another Force: Tomes.png, 2
+  - Defeat the Memory Rooted Spectortoise and Clear all Pledges Pledge: with no allies getting knocked out: Tomes.png, 1
+  - Repair Level 6 Reached: Tomes.png, 1
+  - Repair Level 26 Reached: Tomes.png, 1
+  - Repair Level 46 Reached: Tomes.png, 1
+  - Repair Level 66 Reached: Tomes.png, 1
+- Mysterious Vortex - Warped Cochlea (Another Dungeon) (4)
+  - Collect 9,000 Time Spindle: Gaiden_wandergirl.png, 4
+- Octolight Conductors: The Prisoner's Odyssey (1)
+  - Atratt Manor Treasury: Standard_rare.png, 1
+- Burning Kurosagi Castle (Another Dungeon) (8)
+  - Collect 4,800 Moonstruck Obsidian: Toho_gaiten_3_token.png, 3
+  - Collect 20,700 Moonstruck Obsidian: Toho_gaiten_3_token.png, 5
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 4 (1)
+  - Edax Hokishi Forest, left 2nd row from bottom, to right through hidden path: Standard_rare.png, 1
+- Memories of Another Sky (15)
+  - Buy: 2500 Chocobo Points: None, 5
+  - Gather 5,200 Jewel: Collabo09_currency_b.png, 5
+  - Gather 41,600 Jewel: Collabo09_currency_b.png, 5
+- Toto Theater World (Another Dungeon) (1)
+  - in Staff Room - Access from Lost Woods - Area 2, after rescuing Mimi and checking white glimmer inside Tavern in Toto's Village: Standard_rare.png, 1
+- Phantom Crystal Dimension (5)
+  - Other: 30 Paw Stamps: None, 5
+- Comrade's Reflection Azami (0)
+  - Pledge: without using Another Force: None, 2
+- Comrade's Reflection Azami (0)
+  - Pledge: within 3 turns: None, 1
+- Dark Salamander (0)
+  - Pledge: with 2 or more Water allies: None, 2
+- Dark Salamander (0)
+  - Pledge: with 4 or more Light allies: None, 1
+- Hell Ogre, Death Ogre (0)
+  - Pledge: within 5 turns: None, 1
+- Hell Ogre, Death Ogre (0)
+  - Pledge: with Cyrus in the party: None, 1
+  - Pledge: with 4 or fewer allies: None, 2
+- Karakuri (0)
+  - Pledge: with 2 or more Katana allies: None, 1
+- Karakuri (0)
+  - Pledge: within 5 turns: None, 2
+- Miroku Disaster (0)
+  - Pledge: with only Normal Style alles: None, 1
+  - Pledge: with 4 or fewer allies: None, 1
+- Miroku Disaster (0)
+  - Pledge: with only non-Gallery allies: None, 2
+- Karakuri War Demon (0)
+  - Pledge: without any ally deploying a Zone: None, 2
+- Karakuri War Demon (0)
+  - Pledge: with 1 or more Eastern allies: None, 1
+- Rooted Spectortoise (0)
+  - Pledge: without using Another Force: None, 2
+- Rooted Spectortoise (0)
+  - Pledge: with no allies getting knocked out: None, 1
+
+
+## Guiding Light (Lance) = 146
+
+- IDA School Part 1: Absolute Zero Chain (10)
+  - Gather 9,000 Scores: Gaiden_jade.png, 2
+  - Gather 60,000 Scores: Gaiden_jade.png, 2
+  - Gather 160,000 Scores: Gaiden_jade.png, 3
+  - Gather 270,000 Scores: Gaiden_jade.png, 3
+- Little Princess' Little Big Adventure (10)
+  - Chest in Chapter 1: Standard_rare.png, 2
+  - Chest in Chapter 5: Standard_rare.png, 3
+  - Throw Uninspiring Ax № 1 into Pond 2. Chapters 1,4,6.: None, 2
+  - Throw Uninspiring Ax № 5 into Pond 4. Chapter 6.: None, 3
+- The 3000 Realm Ark and the Sea Abyss (21)
+  - Stormy Sea - 4th Level (top middle): Standard_rare.png, 5
+  - Gather 12,500 Celestial Soul: Celestialsoul.png, 2
+  - Gather 65,000 Celestial Soul: Celestialsoul.png, 2
+  - Gather 175,000 Celestial Soul: Celestialsoul.png, 3
+  - Gather 380,000 Celestial Soul: Celestialsoul.png, 3
+  - Gather 555,000 Celestial Soul: Celestialsoul.png, 3
+  - Gather 630,000 Celestial Soul: Celestialsoul.png, 3
+- Complex Dream (3)
+  - Blue Chest. Another Moonlight Forest Heart (top right): Standard_rare.png, 3
+- Wanderer in the Vortex (10)
+  - Thundering Fortress - Central Accessway (middle-top): Standard_rare.png, 1
+  - Thundering Fortress - Central Base (top-right, behind locked gates): Standard_rare.png, 1
+  - Kelkale Palace - Library (use bookshelf to unlock hidden room): Standard_rare.png, 2
+  - Mercy Keep - 3F (use chain from 4F bottom-left): Standard_rare.png, 2
+  - Mercy Keep - 3F (top-right, behind Horror): Standard_rare.png, 2
+  - Mercy Keep - Basement - "3 chests room" (from bottom of 3F, down through right-side of Keep, needs all levers\chains to access: Standard_rare.png, 2
+- Awards/Other (14)
+  - Collect 5,500 Lazuline Stones: Copper_Rank_Badge.png, 2
+  - Collect 3,000 Levin Fragments: Copper_Rank_Badge.png, 2
+  - Collect 3,000 Jade Fragments: Copper_Rank_Badge.png, 2
+  - Collect 23,000 Levin Fragments: Copper_Rank_Badge.png, 2
+  - Collect 23,000 Jade Fragments: Copper_Rank_Badge.png, 2
+  - Collect 3,000 Seven-Color Fragments: Copper_Rank_Badge.png, 2
+  - Collect 23,000 Seven-Color Fragments: Copper_Rank_Badge.png, 2
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 1 (3)
+  - Shore Runner Passenger Car #2 (unlock 2 steam-pipe doors, behind horror): Standard_rare.png, 2
+  - Diving: Shipwreck Central Map - #14: None, 1
+- Cradle of Time (2)
+  - Gather 40 Arboreal Tear: None, 1
+  - Gather 400 Arboreal Tear: None, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 2 (2)
+  - Diving: Ancient Adventurer's Map #4: None, 2
+- Astral Archive (33)
+  - Trial by Combat: Challenge Wyrmking: Tomes.png, 3
+  - Defeat the Seal Monster VH Wyrmking and Clear all Pledges Pledge: with 1 or more Arcadia allies: Tomes.png, 2
+  - Defeat the Seal Monster Wyrmking and Clear all Pledges Pledge: with no allies getting knocked out: Tomes.png, 1
+  - Trial by Combat: Challenge Wyrmking's Envoy: Tomes.png, 3
+  - Defeat the Seal Monster VH Wyrmking's Envoy and Clear all Pledges Pledge: with 1 or more Arcadia allies: Tomes.png, 2
+  - Defeat the Seal Monster Wyrmking's Envoy and Clear all Pledges Pledge: with no allies getting knocked out: Tomes.png, 1
+  - Trial by Combat: Challenge Malice Dragon Veilis: Tomes.png, 3
+  - Defeat the Seal Monster Malice Dragon Veilis and Clear all Pledges Pledge: with no allies getting knocked out: Tomes.png, 1
+  - Defeat the Seal Monster VH Malice Dragon Veilis and Clear all Pledges Pledge: with 1 or more Arcadia allies: Tomes.png, 2
+  - Defeat the Seal Monster VH Dragon God's Envoy and Clear all Pledges Pledge: within 5 turns: Tomes.png, 2
+  - Defeat the Seal Monster Dragon God's Envoy and Clear all Pledges Pledge: with Aldo in the party: Tomes.png, 1
+  - Defeat the Seal Monsters VH King Tsuchino-Bunmei and Clear all Pledges Pledge: with 4 or fewer party members: Tomes.png, 2
+  - Defeat the Seal Monster King Tsuchino-Bunmei and Clear all Pledges Pledge: within 5 turns: Tomes.png, 1
+  - Defeat the Seal Monster VH Titan Ogre and clear all Pledges Pledge: with only Light allies: Tomes.png, 2
+  - Defeat the Seal Monster Titan Ogre and clear all Pledges Pledge: with no allies getting knocked out: Tomes.png, 1
+  - Defeat the Seal Monster VH Nidhogg and clear all Pledges Pledge: with Aldo in the party Pledge: with 4 or fewer allies: Tomes.png, 2
+  - Defeat the Seal Monster Nidhogg and clear all Pledges Pledge: within 5 turns Pledge: with 4 or fewer allies: Tomes.png, 1
+  - Repair Level 19 Reached: Tomes.png, 1
+  - Repair Level 39 Reached: Tomes.png, 1
+  - Repair Level 59 Reached: Tomes.png, 1
+- Octolight Conductors: The Prisoner's Odyssey (1)
+  - Atratt Manor 4F; Chest behind Horror: Standard_rare.png, 1
+- The Cliffs of Wyrmrest - Wryz Saga I (4)
+  - Aquatail Wilds Cave (Behind Water Ruler ): Standard_rare.png, 4
+- Wyrmrest Isle - Quadra Wastes (Another Dungeon) (3)
+  - Collect 22,500: Gaiden_serial1.png, 3
+- Wyrmrest Isle - Dragon's Depths (Another Dungeon) (3)
+  - Collect 22,500: Gaiden_serial2.png, 3
+- Darkrealm - Wyrmking's Domain (Another Dungeon) (6)
+  - Collect 7,500: Gaiden_serial3.png, 3
+  - Collect 22,500: Gaiden_serial3.png, 3
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 3 (5)
+  - Zevan Bridge (near Petalfall Village): Standard_rare.png, 2
+  - The Emperor's Road (1st area): Standard_rare.png, 2
+  - Boiling Caves of Gazarak(1st area top-right): Standard_rare.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 4 (1)
+  - Edax Itoise, in well: Standard_rare.png, 1
+- Where Light Does Not Fall (1)
+  - Lost Sector - Ward B NE Chest: Standard_rare.png, 1
+- Toto Theater World (Another Dungeon) (1)
+  - Turbo Handy Fan : use at Beehive in Lost Forest: Standard_rare.png, 1
+- Characters (1)
+  - Clear Noble Blossom quest 1: 4_q.png, 1
+- Phantom Crystal Dimension (5)
+  - Other: 770 Paw Stamps: None, 5
+- Wyrmking (0)
+  - Pledge: with 1 or more Arcadia allies: None, 2
+- Wyrmking (0)
+  - Pledge: with no allies getting knocked out: None, 1
+- Wyrmking's Envoy (0)
+  - Pledge: with 1 or more Arcadia allies: None, 2
+- Wyrmking's Envoy (0)
+  - Pledge: with no allies getting knocked out: None, 1
+- Malice Dragon Veilis (0)
+  - Pledge: with no allies getting knocked out: None, 1
+- Malice Dragon Veilis (0)
+  - Pledge: with 1 or more Arcadia allies: None, 2
+- Dragon God's Envoy (0)
+  - Pledge: within 5 turns: None, 2
+- Dragon God's Envoy (0)
+  - Pledge: with Aldo in the party: None, 1
+- King Tsuchino-Bunmei (0)
+  - Pledge: with 4 or fewer party members: None, 2
+- King Tsuchino-Bunmei (0)
+  - Pledge: within 5 turns: None, 1
+- Titan Ogre (0)
+  - Pledge: with only Light allies: None, 2
+- Titan Ogre (0)
+  - Pledge: with no allies getting knocked out: None, 1
+- Nidhogg (0)
+  - Pledge: with Aldo in the party: None, 1
+  - Pledge: with 4 or fewer allies: None, 2
+- Nidhogg (0)
+  - Pledge: within 5 turns: None, 1
+  - Pledge: with 4 or fewer allies: None, 1
+
+
+## Guiding Light (Staff) = 132
+
+- The Apex of Logic and Cardinal Scales (3)
+  - Exchange: Wasteland House - Researcher Shop - 2x500 Wasteland Antibodies: None, 2
+  - Wasteland Channel Sector B1 (through bottom-middle B2, 1 Neutralizer to remove 1 rubble): Standard_rare.png, 1
+- The 1000 Year Ark of the Ocean Palace (5)
+  - Collect 30 Black Pearls: Gaiden_shiela_black.png, 5
+- The Time Mine and the Dreamers (5)
+  - Chest in Mine 3: Standard_rare.png, 5
+- IDA School Part 2: Butterfly's City and Heaven's Cradle (10)
+  - Gather 15,000 Cocoon's Dreams: Gaiden_Saki.png, 2
+  - Gather 67,500 Cocoon's Dreams: Gaiden_Saki.png, 2
+  - Gather 185,000 Cocoon's Dreams: Gaiden_Saki.png, 3
+  - Gather 360,000 Cocoon's Dreams: Gaiden_Saki.png, 3
+- Bound Wills and the Hollow Puppeteer (3)
+  - Chest in Bear's Path: Standard_rare.png, 3
+- Crown of the Pale Dawn (4)
+  - Gather 180,000 Dream Petals: Collabo05.png, 4
+- Complex Dream (3)
+  - Blue Chest in Another Serena Coast (center, bottom): Standard_rare.png, 3
+- Awards/Other (7)
+  - Collect 2,000 Sapient Illusions: Copper_Rank_Badge.png, 3
+  - Collect 7,000 Platina Fragments: Copper_Rank_Badge.png, 2
+  - Collect 29,000 Platina Fragments: Copper_Rank_Badge.png, 2
+- Wanderer in the Vortex (4)
+  - The Tower Argentauri - Disposal Sector 2F (left), behind horror: Standard_rare.png, 1
+  - The Tower Argentauri - Aurum (left), in Record Storage: Standard_rare.png, 2
+  - The Tower Argentauri - Aurum (right), in Food Storage, behind hidden wall: put Homunculus from Disposal Sector in cage: Standard_rare.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 1 (4)
+  - Ghost Ship (2nd deck at the top): Standard_rare.png, 2
+  - Diving: Legendary Treasure Map - #2: None, 2
+- Cradle of Time (2)
+  - Gather 100 Arboreal Tear: None, 1
+  - Gather 400 Arboreal Tear: None, 1
+- Astral Archive (21)
+  - Clear the Serious Guy's requests in the Lonely Castle after checking up on Ludovica.: Tomes.png, 1
+  - Trial by Combat: Challenge Karna Genesis: Tomes.png, 1
+  - Defeat the Seal Monster Visus Embryo and Clear all Pledges Pledge: without any ally deploying a Zone: Tomes.png, 1
+  - Defeat the Seal Monster VH Visus Embryo and Clear all Pledges Pledge: with only Light allies: Tomes.png, 2
+  - Defeat the Seal Monster Big Gonjuro and Clear all Pledges Pledge: with no allies getting knocked out: Tomes.png, 1
+  - Defeat the Seal Monsters VH Big Gonjuro and Clear all Pledges Pledge: after 10 or more turns: Tomes.png, 2
+  - Defeat the Seal Monster Hoe Ko and Clear all Pledges Pledge: with no allies getting knocked out: Tomes.png, 1
+  - Defeat the Seal Monsters VH Hoe Ko and Clear all Pledges Pledge: After dealing 5 million damage in one AF: Tomes.png, 2
+  - Defeat the Seal Monster Zomas 86 and clear all Pledges Pledge: without using Another Force: Tomes.png, 1
+  - Defeat the Seal Monster VH Zomas 86 and clear all Pledges Pledge: within 8 turns: Tomes.png, 2
+  - Trial by Combat: Challenge Kidnap Machine: Tomes.png, 3
+  - Repair Level 2 Reached: Tomes.png, 1
+  - Repair Level 22 Reached: Tomes.png, 1
+  - Repair Level 42 Reached: Tomes.png, 1
+  - Repair Level 62 Reached: Tomes.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 2 (4)
+  - Arkiris Plains (Need Iron Arm ) SW Path (bottom-left corner): Standard_rare.png, 2
+  - Diving: Lost Delivery Map #11: None, 2
+- Wyrmrest Isle - Quadra Wastes (Another Dungeon) (3)
+  - Collect 7,500: Gaiden_serial1.png, 3
+- Octolight Conductors: The Prisoner's Odyssey (1)
+  - Saltore Mines East (Need Flexible Rope and Sturdy Ladder): Standard_rare.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 3 (3)
+  - The Glass Mausoleum (5th Room, top-center): Standard_rare.png, 2
+  - Laika: northmost (found: top-center Illusialand - Dream Teatime ): None, 1
+- Burning Kurosagi Castle (Another Dungeon) (8)
+  - Collect 13,500 Moonstruck Obsidian: Toho_gaiten_3_token.png, 3
+  - Collect 34,500 Moonstruck Obsidian: Toho_gaiten_3_token.png, 5
+- Shadow of Sin and Steel (4)
+  - Parallel Kurosagi Castle 3rd floor, behind horror: Standard_rare.png, 1
+  - Exchange 5 Old Garulean Coins at Parallel Time Layer - Izana: Standard_rare.png, 3
+- Crystal of Wisdom and the Secret Castle (13)
+  - Lonely Castle 1F (Steps in Mining Site - Researcher Request): Standard_rare.png, 3
+  - Gather 10,500 Blended Wisdom: Collabo08.png, 5
+  - Gather 46,900 Blended Wisdom: Collabo08.png, 5
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 4 (1)
+  - Edax Nuaru Uplands, top right: Standard_rare.png, 1
+- Memories of Another Sky (15)
+  - Buy: 2500 Chocobo Points: None, 5
+  - Gather 18,200 Jewel: Collabo09_currency_b.png, 5
+  - Gather 80,800 Jewel: Collabo09_currency_b.png, 5
+- Black Mage Village (1)
+  - Gaia (Bottom of Forgotten Continent): Standard_rare.png, 1
+- Phantom Crystal Dimension (5)
+  - Other: 260 Paw Stamps: None, 5
+- Characters (1)
+  - Clear Porcelain Pixie quest 1: 4_q.png, 1
+- Visus Embryo (0)
+  - Pledge: without any ally deploying a Zone: None, 1
+- Visus Embryo (0)
+  - Pledge: with only Light allies: None, 2
+- Big Gonjuro (0)
+  - Pledge: with no allies getting knocked out: None, 1
+- Big Gonjuro (0)
+  - Pledge: after 10 or more turns: None, 2
+- Hoe Ko (0)
+  - Pledge: with no allies getting knocked out: None, 1
+- Hoe Ko (0)
+  - Pledge: After dealing 5 million damage in one AF: None, 2
+- Zomas 86 (0)
+  - Pledge: without using Another Force: None, 1
+- Zomas 86 (0)
+  - Pledge: within 8 turns: None, 2
+
+
+## Guiding Light (Sword) = 248
+
+- Two Knights and the Holy Sword (10)
+  - Gather 15,000 Miglancian Magic Points: Gaiden_diadora.png, 2
+  - Gather 90,000 Miglancian Magic Points: Gaiden_diadora.png, 2
+  - Gather 280,000 Miglancian Magic Points: Gaiden_diadora.png, 3
+  - Gather 570,000 Miglancian Magic Points: Gaiden_diadora.png, 3
+- Little Princess' Little Big Adventure (10)
+  - Chest in Chapter 3: Standard_rare.png, 2
+  - Chest in Chapter 5: Standard_rare.png, 3
+  - Throw Uninspiring Ax № 3 into Pond 1. Chapters 1,3,6.: None, 2
+  - Throw Uninspiring Ax № 10 into Pond 4. Chapter 6.: None, 3
+- Foreign Skies and the Ship to Freedom (10)
+  - Chest in Chapter 1: Standard_rare.png, 1
+  - Chest in Chapter 2: Standard_rare.png, 1
+  - Chest in Chapter 4: Standard_rare.png, 2
+  - Chest in Chapter 6: Standard_rare.png, 1
+  - Give Metallic Maiden's Bone № 1 to Dog  3. Chapters 2-6: None, 2
+  - Give Metallic Maiden's Bone № 5 to Dog  4. Chapter 6: None, 3
+- First Knight and the Holy Sword (10)
+  - Gather 12,500 Ethereal Dewdrops Points: Gaiden_diadora2.png, 2
+  - Gather 65,000 Ethereal Dewdrops Points: Gaiden_diadora2.png, 2
+  - Gather 175,000 Ethereal Dewdrops Points: Gaiden_diadora2.png, 3
+  - Gather 380,000 Ethereal Dewdrops Points: Gaiden_diadora2.png, 3
+- Tails of Time and the Brave Four: Tales of Chronographia (15)
+  - Chest in Vulga Mountain Road: Standard_rare.png, 3
+  - Chest in Citadel of Time - Upper Sector: Standard_rare.png, 3
+  - Gather 10,500 Dreamcolor Ink: Collabo_tales.png, 3
+  - Gather 26,100 Dreamcolor Ink: Collabo_tales.png, 3
+  - Gather 120,000 Dreamcolor Ink: Collabo_tales.png, 3
+- Bound Wills and the Hollow Puppeteer: Promises, Vows, and Rings (11)
+  - Chest in Main Hub: Standard_rare.png, 1
+  - Gather 9,700 Decayed Thought Leaves: Collabo_p5_1.png, 2
+  - Gather 43,500 Decayed Thought Leaves: Collabo_p5_1.png, 2
+  - Gather 111,100 Decayed Thought Leaves: Collabo_p5_1.png, 3
+  - Gather 214,900 Decayed Thought Leaves: Collabo_p5_1.png, 3
+- Crown of the Pale Dawn (9)
+  - Consuming Tree (behind first Horror on Aldo's route): Standard_rare.png, 3
+  - Consuming Tree (beyond a tree bridge grown by the ring, on Amy's route): Standard_rare.png, 2
+  - Gather 394,400 Dream Petals: Collabo05.png, 4
+- Tales from the East. Return of the Goddess of Time. Volume 3: Conclusion (15)
+  - Tree Growing hidden quest in Pador, behind Inn, 2nd layer: Standard_rare.png, 5
+  - Mark of Man's Tomb - Lower Level (bottom middle in hidden path): Standard_rare.png, 5
+  - Mark of Man's Tomb - Lower Level (top left, behind horror): Standard_rare.png, 5
+- Heroes of Bygone Days and the Engraved Oath (3)
+  - Chest in Hero's Graveyard: Standard_rare.png, 1
+  - Area behind the middle gate: Standard_rare.png, 2
+- Complex Dream (10)
+  - Collect 1,300 Growth Star: Collabo_chrono_cross.png, 5
+  - Collect 46,900 Growth Star: Collabo_chrono_cross.png, 5
+- Wanderer in the Vortex (9)
+  - Unclean Lands (right, behind horror): Standard_rare.png, 3
+  - Tower of Selection 3F (under the top right moving platform, move it to left and return); revisit Tower after time rewind, in its unsealed form: Standard_rare.png, 2
+  - Tower of Selection 5F - Side Room (top left); revisit Tower after time rewind, in its unsealed form: Standard_rare.png, 1
+  - Clock Tower - Basement (unlocked in quest Clock Tower's Secret ): Standard_rare.png, 1
+  - Forest of Whispers - Highland E (top): Standard_rare.png, 1
+  - Forest of Whispers - Cradle Cave N (access from Tower Basement, after Thank You Always side quest): Standard_rare.png, 1
+- Awards/Other (27)
+  - Cleared Quest "Symphony: Complex Dream" on standard: Silver_Rank_Badge.png, 5
+  - Collect 1000 Pale Scarlet Stones: Copper_Rank_Badge.png, 2
+  - Collect 5500 Pale Scarlet Stones: Copper_Rank_Badge.png, 2
+  - Collect 3,500 True Scarlet Stones: Copper_Rank_Badge.png, 2
+  - Collect 3,500 Lazuline Stones: Copper_Rank_Badge.png, 2
+  - Collect 5,500 True Scarlet Stones: Copper_Rank_Badge.png, 2
+  - Collect 12,500 Lazuline Stones: Copper_Rank_Badge.png, 2
+  - Collect 1,000 Jade Fragments: Copper_Rank_Badge.png, 2
+  - Collect 16,000 Jade Fragments: Copper_Rank_Badge.png, 2
+  - Collect 3,000 Immaculate Fragments: Copper_Rank_Badge.png, 2
+  - Collect 16,000 Immaculate Fragments: Copper_Rank_Badge.png, 2
+  - Collect 23,000 Immaculate Fragments: Copper_Rank_Badge.png, 2
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 1 (2)
+  - Mt. Weissel - (top left, below camping site, requires <Super Alloy Drill> ability): Standard_rare.png, 2
+- Cradle of Time (2)
+  - Gather 400 Arboreal Tear: None, 1
+  - Gather 1,000 Arboreal Tear: None, 1
+- Commander and Sheep (2)
+  - Left Chest in Wulfpack Manor - Vault: Standard_rare.png, 2
+- Astral Archive (25)
+  - Trial by Combat: Challenge Memory Incarnated Dragon God's Might + Aldo: Tomes.png, 3
+  - Defeat the Memory Incarnated Aldo and Clear all Pledges Pledge: Clear without using Another Force: Tomes.png, 2
+  - Defeat the Memory Incarnated Aldo and Clear all Pledges Pledge: Clear within 3 turns: Tomes.png, 1
+  - Defeat the Travelers' Curse and Clear all Pledges Pledge: Clear with 1 or more Traveler allies: Tomes.png, 2
+  - Defeat the Travelers' Curse and Clear all Pledges Pledge: Clear with no allies getting knocked out: Tomes.png, 1
+  - Defeat the Seal Monster VH Beast Vares and Clear all Pledges Pledge: Deal 5 million damage in one AF: Tomes.png, 2
+  - Defeat the Seal Monster Beast Vares and Clear all Pledges Pledge: with no allies getting knocked out: Tomes.png, 1
+  - Defeat the Seal Monster VH Zennon Ogre and Clear all Pledges Pledge: with other conditions at the same time Pledge: with Aldo in the party Pledge: with only Free Characters: Tomes.png, 2
+  - Defeat the Seal Monster Zennon Ogre and Clear all Pledges Pledge: with only Another Style allies Pledge: with 4 or fewer allies: Tomes.png, 1
+  - Defeat the Seal Monsters VH Slash Demon & Cleave Demon and Clear all Pledges Pledge: with no allies getting knocked out: Tomes.png, 2
+  - Defeat the Seal Monsters Slash Demon & Cleave Demon and Clear all Pledges Pledge: without using Another Force: Tomes.png, 1
+  - Defeat the Seal Monster Chaos and clear all Pledges Pledge: without any ally deploying a Zone: Tomes.png, 1
+  - Defeat the Seal Monster VH Chaos and clear all Pledges Pledge: with Aldo in the party: Tomes.png, 2
+  - Repair Level 4 Reached: Tomes.png, 1
+  - Repair Level 24 Reached: Tomes.png, 1
+  - Repair Level 44 Reached: Tomes.png, 1
+  - Repair Level 64 Reached: Tomes.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 2 (4)
+  - Pinovana Jungle (Use Guilty Hades Mecha Action on tree) Northwest Path: Standard_rare.png, 2
+  - Give 2 Goldfruits to Some Guy in Liriam Wastes 1st Goldfruit is on the tree next to the Liriam Wastes merchant 2nd Goldfruit is on the tree next to the Respite Kit campsite: Standard_rare.png, 2
+- Octolight Conductors: The Prisoner's Odyssey (1)
+  - Saltore Mines West; Chest behind Horror: Standard_rare.png, 1
+- The Wings of Destiny - Wryz Saga II (4)
+  - Forbidden Cave Northwest (2nd map, requires Swim): Standard_rare.png, 1
+  - Primeval Forest (1st map, requires T. Dragontear Weapon - Piercing): Standard_rare.png, 1
+  - Forbidden Cave (path to Lance-Seal Chamber, hidden path, top right): Standard_rare.png, 1
+  - Forbidden Cave Southwest (1st map, requires Fire): Standard_rare.png, 1
+- Wyrmrest Isle - Dragon's Depths (Another Dungeon) (3)
+  - Collect 7,500: Gaiden_serial2.png, 3
+- The Mists of Myth - Wryz Saga III (2)
+  - Nopaew Village (requires Deep Dive): Standard_rare.png, 2
+- A Paradise of Imperfections (12)
+  - Proto Eden - Lab Division 5 (bottom-right, right from direction  changing pass: Standard_rare.png, 1
+  - Proto Eden - Calculation Division 2 (end of bottom-right path): Standard_rare.png, 1
+  - Collect 15,500 PTL Record: Gaiden_galiard2.png, 5
+  - Collect 35,000 PTL Record: Gaiden_galiard2.png, 5
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 3 (6)
+  - The Sword Hall (2F), requires detect magic: Standard_rare.png, 1
+  - Effusia Guilty Hades exploration (north-east Illusialand island ): Standard_rare.png, 2
+  - Hamoul Woodlands (top-right, requires field magic to access): Standard_rare.png, 2
+  - Laika: bottom-center (found: north-most area Parmonia Meadows ): None, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 4 (1)
+  - Dimensional Fortress Chronos, map 1, top row to right through hidden path: Standard_rare.png, 1
+- Where Light Does Not Fall (7)
+  - Trial: Clear the Trial Home's Lost Atelier - Gloom with a score of 10,000+: None, 5
+  - Brayk Town	NW Hidden Path Chest: Standard_rare.png, 2
+- Memories of Another Sky (20)
+  - Buy: 2500 Chocobo Points: None, 5
+  - Gather 10,500 Jewel: Collabo09_currency_b.png, 5
+  - Gather 57,300 Jewel: Collabo09_currency_b.png, 5
+  - Gather 151,300 Jewel: Collabo09_currency_b.png, 5
+- Phantom Crystal Dimension (5)
+  - Other: 1,160 Paw Stamps: None, 5
+- Toto Theater World (Another Dungeon) (1)
+  - Mimi Incense Deluxe : use at dinosaur in the well at Toto's Village: Standard_rare.png, 1
+- Memory Incarnated Aldo (0)
+  - Pledge: Clear without using Another Force: None, 2
+- Memory Incarnated Aldo (0)
+  - Pledge: Clear within 3 turns: None, 1
+- Travelers' Curse (0)
+  - Pledge: Clear with 1 or more Traveler allies: None, 2
+- Travelers' Curse (0)
+  - Pledge: Clear with no allies getting knocked out: None, 1
+- Beast Vares (0)
+  - Pledge: Deal 5 million damage in one AF: None, 2
+- Beast Vares (0)
+  - Pledge: with no allies getting knocked out: None, 1
+- Zennon Ogre (0)
+  - Pledge: with other conditions at the same time: None, 1
+  - Pledge: with Aldo in the party: None, 1
+  - Pledge: with only Free Characters: None, 2
+- Zennon Ogre (0)
+  - Pledge: with only Another Style allies: None, 1
+  - Pledge: with 4 or fewer allies: None, 1
+- Slash Demon & Cleave Demon (0)
+  - Pledge: with no allies getting knocked out: None, 2
+- Slash Demon & Cleave Demon (0)
+  - Pledge: without using Another Force: None, 1
+- Chaos (0)
+  - Pledge: without any ally deploying a Zone: None, 1
+- Chaos (0)
+  - Pledge: with Aldo in the party: None, 2
+- Liriam Wastes (0)
+  - 1st Goldfruit is on the tree next to the Liriam Wastes merchant: None, 1
+  - 2nd Goldfruit is on the tree next to the Respite Kit campsite: None, 2

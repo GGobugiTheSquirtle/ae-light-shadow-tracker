@@ -1,0 +1,107 @@
+.weapon-section {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  margin-bottom: 16px;
+  overflow: hidden;
+}
+
+.weapon-section.complete {
+  opacity: 0.7;
+}
+
+.weapon-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 16px 20px;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid var(--border);
+  cursor: pointer;
+  transition: background 0.15s ease;
+  text-align: left;
+}
+
+.weapon-header:hover {
+  background: var(--hover);
+}
+
+.weapon-header .chevron {
+  font-size: 12px;
+  color: var(--text-muted);
+  transition: transform 0.2s ease;
+}
+
+.weapon-header .chevron.expanded {
+  transform: rotate(90deg);
+}
+
+.weapon-icon-large {
+  font-size: 24px;
+}
+
+.weapon-title {
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--text);
+  margin: 0;
+  flex: 1;
+}
+
+.weapon-progress-info {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.weapon-count {
+  font-size: 14px;
+  color: var(--text-muted);
+  font-weight: 500;
+  min-width: 60px;
+  text-align: right;
+}
+
+.weapon-progress-bar {
+  width: 100px;
+  height: 6px;
+  background: var(--bg-tertiary);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.weapon-progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--accent), var(--accent-light));
+  border-radius: 3px;
+  transition: width 0.3s ease;
+}
+
+.weapon-percentage {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--accent);
+  min-width: 40px;
+}
+
+.weapon-content {
+  padding: 12px 16px;
+}
+
+@media (max-width: 768px) {
+  .weapon-header {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .weapon-progress-info {
+    width: 100%;
+    margin-top: 8px;
+  }
+
+  .weapon-progress-bar {
+    flex: 1;
+  }
+}
