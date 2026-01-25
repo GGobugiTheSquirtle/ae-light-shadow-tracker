@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Debug files
+data/*.html
+scripts/debug_*.py
+scripts/analyze_*.py

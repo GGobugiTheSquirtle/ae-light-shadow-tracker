@@ -119,7 +119,7 @@ export const useChecklistStore = create<ChecklistStore>()(
 // 데이터 로드 함수
 export async function loadChecklistData(type: ChecklistType): Promise<ChecklistData> {
   const fileName = type === 'guiding-light' ? 'guiding-light.md' : 'luring-shadow.md';
-  const response = await fetch(`/data/${fileName}`);
+  const response = await fetch(`${import.meta.env.BASE_URL}data/${fileName}`);
   const markdown = await response.text();
   return parseMarkdown(markdown);
 }

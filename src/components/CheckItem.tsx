@@ -16,7 +16,7 @@ export function CheckItem({ entry, weaponId, sourceId }: CheckItemProps) {
     toggleCheck(currentType, weaponId, sourceId, entry.id);
   };
 
-  const iconPath = entry.icon ? `/icons/${entry.icon}` : null;
+  const iconPath = entry.icon ? `${import.meta.env.BASE_URL}icons/${entry.icon}` : null;
 
   return (
     <label className={`check-item ${checked ? 'checked' : ''}`}>
