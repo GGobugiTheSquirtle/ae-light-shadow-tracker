@@ -3,6 +3,7 @@ export interface ChecklistEntry {
   label: string;
   icon: string | null;
   quantity: number;
+  bossName?: string; // 보스명 (성영의 서가 항목 그룹화용)
 }
 
 export interface ChecklistSource {
