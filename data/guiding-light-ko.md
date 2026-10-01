@@ -1,0 +1,804 @@
+# Guiding Light (천계의 인도)
+
+
+## Guiding Light (Ax) = 88
+
+- 천년의 상자, 해신의 신전 (10)
+  - Atlantis Pearls 30,000개 수집: Gaiden_shiela.png, 2
+  - Atlantis Pearls 142,500개 수집: Gaiden_shiela.png, 2
+  - Atlantis Pearls 375,000개 수집: Gaiden_shiela.png, 3
+  - Atlantis Pearls 900,000개 수집: Gaiden_shiela.png, 3
+- 시간의 탄광과 꿈꾸는 마을 (5)
+  - Mine 2 상자: Standard_rare.png, 5
+- 이국의 하늘과 자유를 향한 방주 (10)
+  - Chapter 1 상자: Standard_rare.png, 1
+  - Chapter 3 상자: Standard_rare.png, 1
+  - Chapter 4 상자: Standard_rare.png, 1
+  - Chapter 5 상자: Standard_rare.png, 2
+  - Metallic Maiden's Bone № 2를 Dog 4에게 전달. Chapter 6: None, 2
+  - Metallic Maiden's Bone № 7을 Dog 4에게 전달. Chapter 6: None, 3
+- 잃어버린 경전과 시들지 않는 은꽃 (10)
+  - Seeker Points 4,500 수집: Gaiden_seeker.png, 2
+  - Seeker Points 25,000 수집: Gaiden_seeker.png, 2
+  - Seeker Points 51,000 수집: Gaiden_seeker.png, 3
+  - Seeker Points 83,000 수집: Gaiden_seeker.png, 3
+- Complex Dream (크로노 크로스) (3)
+  - Unigalna 성벽 내부 파란 상자 (오른쪽 문), Castle Wall Key 사용: Standard_rare.png, 3
+- 방황하는 소녀와 영겁의 소용돌이 (2)
+  - Thundering Fortress - Defense Base (하단 출구에서 왼쪽): Standard_rare.png, 1
+  - Thundering Fortress - Central Base (우상단, 잠긴 문 뒤): Standard_rare.png, 1
+- 훈장/기타 (14)
+  - Chaos Fragments 7,500개 수집: Copper_Rank_Badge.png, 3
+  - Chaos Fragments 57,300개 수집: Copper_Rank_Badge.png, 5
+  - Lazuline Stones 1,000개 수집: Copper_Rank_Badge.png, 2
+  - Levin Fragments 1,000개 수집: Copper_Rank_Badge.png, 2
+  - Levin Fragments 16,000개 수집: Copper_Rank_Badge.png, 2
+- 허시의 층. 시간의 제국. Volume 1 (2)
+  - Dierkuul Island - Factory Tower (2층, 우상단): Standard_rare.png, 2
+- 시간의 요람 (2)
+  - Arboreal Tear 160개 수집: None, 1
+  - Arboreal Tear 1,000개 수집: None, 1
+- 성영의 서가 (9)
+  - 봉인 몬스터 Papa Macminal 처치 및 모든 맹세 클리어 맹세: Zone 사용 없이: Tomes.png, 1
+  - 봉인 몬스터 VH Papa Macminal 처치 및 모든 맹세 클리어 맹세: 4명 이하의 아군: Tomes.png, 2
+  - 봉인 몬스터 Gail Carrigo 처치 및 모든 맹세 클리어 맹세: 1명 이상의 도끼 아군: Tomes.png, 1
+  - 봉인 몬스터 VH Gail Carrigo 처치 및 모든 맹세 클리어 맹세: 1명 이상의 고양이 애호가 아군: Tomes.png, 2
+  - 복원 레벨 8 달성: Tomes.png, 1
+  - 복원 레벨 48 달성: Tomes.png, 1
+  - 복원 레벨 68 달성: Tomes.png, 1
+- 허시의 층. 시간의 제국. Volume 2 (4)
+  - Machina Wyrm Heart를 Treasure Hunter Association에 반환: Standard_rare.png, 2
+  - 잠수: Map to the Purrate Ship #11: None, 2
+- 땅끝의 포로와 인도의 팔중주 (1)
+  - Atratt Manor Underground Path 상자: Standard_rare.png, 1
+- 벌룡 공주 기담 III (2)
+  - Wyrmking's Domain (심해 잠수 필요): Standard_rare.png, 2
+- 허시의 층. 시간의 제국. Volume 3 (3)
+  - Illusory Medal Misprints - 55개: Key_item.png, 2
+  - Laika: 하단 중앙 (위치: The Sleeping Pearl Deck): None, 1
+- 허시의 층. 시간의 제국. Volume 4 (1)
+  - Dimensional Fortress Chronos (2번째 엘리베이터 전 맵): Standard_rare.png, 1
+- 낙일의 폐허와 광휘의 수호자 (1)
+  - Lost Sector - Ward D 북서쪽 상자: Standard_rare.png, 1
+- 환리경 (5)
+  - 기타: Paw Stamps 2,000개: None, 5
+- 토토 시어터 월드 (어나더 던전) (1)
+  - T. Toto's Sabre: Magical Forest의 Sword Pedestal에서 사용: Standard_rare.png, 1
+- Papa Macminal (0)
+  - 맹세: Zone 사용 없이: None, 1
+- Papa Macminal (0)
+  - 맹세: 4명 이하의 아군: None, 2
+- Gail Carrigo (0)
+  - 맹세: 1명 이상의 도끼 아군: None, 1
+- Gail Carrigo (0)
+  - 맹세: 1명 이상의 고양이 애호가 아군: None, 2
+
+
+## Guiding Light (Bow) = 132
+
+- 시간의 탄광과 꿈꾸는 마을 (5)
+  - Mine 2 상자: Standard_rare.png, 5
+- 이국의 하늘과 자유를 향한 방주 (10)
+  - Chapter 2 상자: Standard_rare.png, 1
+  - Chapter 3 상자: Standard_rare.png, 1
+  - Chapter 5 상자: Standard_rare.png, 1
+  - Chapter 6 상자: Standard_rare.png, 2
+  - Metallic Maiden's Bone № 3를 Dog 1에게 전달. Chapters 1,3,5,6: None, 2
+  - Metallic Maiden's Bone № 10을 Dog 4에게 전달. Chapter 6: None, 3
+- IDA 스쿨 3: 인도의 열매와 잃어버린 전자 소녀 (15)
+  - Hismena's Dream World 3F 상자: Standard_rare.png, 3
+  - Hismena's Dream World 4F 상자: Standard_rare.png, 2
+  - 13명의 친구와 친구 랭크 3 달성: Gift_mail.png, 5
+  - 23명의 친구와 친구 랭크 3 달성: Gift_mail.png, 5
+- Complex Dream (크로노 크로스) (3)
+  - Underground Fortress - Outdoor Passage 파란 상자. 거울방 퍼즐: Standard_rare.png, 3
+- 방황하는 소녀와 영겁의 소용돌이 (7)
+  - The Tower Argentauri - Disposal Sector 1F (왼쪽), 호러 뒤: Standard_rare.png, 1
+  - The Tower Argentauri - Aurum (오른쪽), Food Storage 내, 숨겨진 벽 뒤: Disposal Sector의 Homunculus를 케이지에 넣기: Standard_rare.png, 1
+  - The Tower Argentauri - Aurum (오른쪽 중간), Food Storage 내: Standard_rare.png, 1
+  - Kelkale Palace - Library (책장을 사용해 숨겨진 방 열기): Standard_rare.png, 2
+  - Mercy Keep - Basement - "3개의 상자 방" (3F 하단에서, Keep 오른쪽으로 내려가기, 모든 레버/체인 필요): Standard_rare.png, 2
+- 훈장/기타 (12)
+  - Platina Fragments 3,000개 수집: Copper_Rank_Badge.png, 2
+  - Jade Fragments 7,000개 수집: Copper_Rank_Badge.png, 2
+  - Platina Fragments 23,000개 수집: Copper_Rank_Badge.png, 2
+  - Jade Fragments 29,000개 수집: Copper_Rank_Badge.png, 2
+  - Seven-Color Fragments 7,000개 수집: Copper_Rank_Badge.png, 2
+  - Seven-Color Fragments 29,000개 수집: Copper_Rank_Badge.png, 2
+- 허시의 층. 시간의 제국. Volume 1 (2)
+  - Flotsam Isle (상단, 산 등반 근처, <Super Alloy Arm> 능력 필요): Standard_rare.png, 2
+- 시간의 요람 (2)
+  - Arboreal Tear 660개 수집: None, 2
+- Mysterious Vortex - Warped Cochlea (어나더 던전) (4)
+  - Time Spindle 22,100개 수집: Gaiden_wandergirl.png, 4
+- 성영의 서가 (11)
+  - Atratt Manor Grounds에서 소년의 고백 도와주기: Tomes.png, 1
+  - 시련 전투: Travelers' Curse 도전: Tomes.png, 1
+  - Elzion의 서브퀘스트 "The Search for Sweets" 클리어: Tomes.png, 1
+  - 시련 전투: Karna Genesis 도전: Tomes.png, 1
+  - 봉인 몬스터 Berserk Beast King과 Berserk Beast Neo Angurius 처치 및 모든 맹세 클리어 맹세: Guildna 파티 포함: Tomes.png, 1
+  - 봉인 몬스터 VH Berserk Beast King과 Berserk Beast Neo Angurius 처치 및 모든 맹세 클리어 맹세: 아군 쓰러짐 없이: Tomes.png, 2
+  - 복원 레벨 12 달성: Tomes.png, 1
+  - 복원 레벨 32 달성: Tomes.png, 1
+  - 복원 레벨 52 달성: Tomes.png, 1
+  - 복원 레벨 72 달성: Tomes.png, 1
+- 허시의 층. 시간의 제국. Volume 2 (2)
+  - 잠수: Map to the Purrate Ship #14: None, 2
+- 땅끝의 포로와 인도의 팔중주 (13)
+  - Sigma District 퀴즈 클리어: Standard_rare.png, 2
+  - Paupers' Cave (밤) - Old Laborer와 옆의 보라색 빛 조사: Standard_rare.png, 1
+  - Traveler's Log 26,100개 수집: Collabo06.png, 5
+  - Traveler's Log 232,000개 수집: Collabo06.png, 5
+- 벌룡 공주 기담 I (4)
+  - Windfang Plains Cave (Gust Ruler 뒤): Standard_rare.png, 4
+- 벌룡 공주 기담 III (2)
+  - Darkrealm - Dead Tree Path (Fire 필요): Standard_rare.png, 2
+- 허시의 층. 시간의 제국. Volume 3 (2)
+  - Illusory Medal Misprints - 15개: Key_item.png, 2
+- 만고의 죄와 불복의 칼날 (4)
+  - Izuna's Secret Hideout (Mt. Kamukura 7번째 화면, 좌상단 숨겨진 길): Standard_rare.png, 2
+  - Cat Shrine Underground 2번째 화면, 좌상단: Standard_rare.png, 1
+  - Cat Shrine Underground 3번째 화면, 하단 중앙: Standard_rare.png, 1
+- Meigoku (어나더 던전) (8)
+  - Sunstruck Alabaster 4,800개 수집: Toho_gaiten_7_token.png, 3
+  - Sunstruck Alabaster 20,700개 수집: Toho_gaiten_7_token.png, 5
+- 지혜의 결정과 비밀의 성 (13)
+  - Lonely Castle 3F (Farmland의 계단 - Young Lady 요청): Standard_rare.png, 3
+  - Blended Wisdom 18,200개 수집: Collabo08.png, 5
+  - Blended Wisdom 120,000개 수집: Collabo08.png, 5
+- 허시의 층. 시간의 제국. Volume 4 (1)
+  - Edax Moonlight Forest Edge, 오른쪽: Standard_rare.png, 1
+- 환리경 (5)
+  - 기타: Paw Stamps 2,600개: None, 5
+- Berserk Beast King과 Berserk Beast Neo Angurius (0)
+  - 맹세: Guildna 파티 포함: None, 1
+- Berserk Beast King과 Berserk Beast Neo Angurius (0)
+  - 맹세: 아군 쓰러짐 없이: None, 2
+
+
+## Guiding Light (Fists) = 147
+
+- 논리의 정점과 Cardinal Scales (1)
+  - 미니게임: Part-time Stickers 1,200개 수집: None, 1
+- 시간의 탄광과 꿈꾸는 마을 (5)
+  - Mine 3 상자: Standard_rare.png, 5
+- 고양이를 넘어선 고양이 (5)
+  - 고양이들: Serena Coast 상자: Standard_rare.png, 5
+- 동방이전. 시간의 여신 귀환. Volume 3: 결말 (5)
+  - Pador 여관 뒤 나무 키우기 숨겨진 퀘스트, 4층: Standard_rare.png, 5
+- 방황하는 소녀와 영겁의 소용돌이 (5)
+  - 사이드퀘스트 Repairing Bonds의 NPC 보상: Apocrypha_quest.png, 2
+  - Forest of Whispers - Highland S (우상단 모서리에서 밧줄 사용): Standard_rare.png, 1
+  - Dust City - Forbidden Lane - Lab (좌하단, 감시 드론 뒤, 맵 상단 버튼으로 비활성화): Standard_rare.png, 1
+  - Dust City - Forbidden Lane - Lab (중앙 Purple keycard 문 뒤, 왼쪽 Lab): Standard_rare.png, 1
+- 허시의 층. 시간의 제국. Volume 1 (4)
+  - Strissal Highlands Layer 3 (우하단 모서리, layer 2에서 오른쪽으로 점프하여 밸브 획득 후 통로 열기): Standard_rare.png, 2
+  - 잠수: Legendary Treasure Map - #15: None, 2
+- 훈장/기타 (10)
+  - Immaculate Fragments 1,000개 수집: Copper_Rank_Badge.png, 2
+  - Immaculate Fragments 7,000개 수집: Copper_Rank_Badge.png, 2
+  - Dawn Fragments 7,000개 수집: Copper_Rank_Badge.png, 2
+  - Immaculate Fragments 29,000개 수집: Copper_Rank_Badge.png, 2
+  - Dawn Fragments 29,000개 수집: Copper_Rank_Badge.png, 2
+- 시간의 요람 (2)
+  - Arboreal Tear 840개 수집: None, 2
+- 성영의 서가 (28)
+  - 봉인 몬스터 Comrade's Reflection Cerrine 처치 및 모든 맹세 클리어 맹세: 3턴 이내: Tomes.png, 1
+  - 봉인 몬스터 VH Comrade's Reflection Cerrine 처치 및 모든 맹세 클리어 맹세: Another Force 사용 없이: Tomes.png, 2
+  - 시련 전투: Spurring Cerrine 도전: Tomes.png, 3
+  - 시련 전투: Phantom Rugal 도전: Tomes.png, 3
+  - 봉인 몬스터 Phantom Rugal 처치 및 모든 맹세 클리어 맹세: 1명 이상의 KOF 아군: Tomes.png, 2
+  - 봉인 몬스터 Phantom Rugal 처치 및 모든 맹세 클리어 맹세: 아군 쓰러짐 없이: Tomes.png, 1
+  - Paupers' Cave에서 가족 상봉 목격: Tomes.png, 1
+  - 시련 전투: Travelers' Curse 도전: Tomes.png, 1
+  - Tournament Battle Phase에서 8턴 이내 Omega Rugal 처치: Tomes.png, 4
+  - 봉인 몬스터 VH Synth Drone 처치 및 모든 맹세 클리어 맹세: 10턴 이상 후 맹세: 아군 쓰러짐 없이: Tomes.png, 2
+  - 봉인 몬스터 Synth Drone 처치 및 모든 맹세 클리어 맹세: 2명 이상의 Fire 아군: Tomes.png, 1
+  - 봉인 몬스터 VH Gidrun 처치 및 모든 맹세 클리어 맹세: Ashtear 파티 포함: Tomes.png, 2
+  - 봉인 몬스터 Gidrun 처치 및 모든 맹세 클리어 맹세: 1명 이상의 안경 아군: Tomes.png, 1
+  - 복원 레벨 14 달성: Tomes.png, 1
+  - 복원 레벨 34 달성: Tomes.png, 1
+  - 복원 레벨 54 달성: Tomes.png, 1
+  - 복원 레벨 74 달성: Tomes.png, 1
+- 허시의 층. 시간의 제국. Volume 2 (2)
+  - 잠수: Lost Delivery Map #1: None, 2
+- 땅끝의 포로와 인도의 팔중주 (13)
+  - Lucas에 관한 진실: Standard_rare.png, 2
+  - Atratt Manor Entry Hall - Butler와 옆의 보라색 빛 조사: Standard_rare.png, 1
+  - Traveler's Log 18,200개 수집: Collabo06.png, 5
+  - Traveler's Log 46,900개 수집: Collabo06.png, 5
+- 허시의 층. 시간의 제국. Volume 3 (2)
+  - Magic Ore Tunnels (2번째 구역, 필드 마법 필요): Standard_rare.png, 2
+- The King of Fighters: Another Bout (43)
+  - Darkest Noah (Past) - Row 4 가장 오른쪽 방: Standard_rare.png, 1
+  - Darkest Noah (Past) - Top Row 가장 오른쪽 방 -> 숨겨진 길로 방 이동: Standard_rare.png, 1
+  - Darkest Noah (Past) - Top Row 중앙 왼쪽 방: Standard_rare.png, 1
+  - Fighting Spirit 5,200개 수집: Collabo07.png, 5
+  - Fighting Spirit 10,500개 수집: Collabo07.png, 5
+  - Fighting Spirit 18,200개 수집: Collabo07.png, 5
+  - Fighting Spirit 26,100개 수집: Collabo07.png, 5
+  - Fighting Spirit 41,600개 수집: Collabo07.png, 5
+  - Fighting Spirit 57,300개 수집: Collabo07.png, 5
+  - Fighting Spirit 112,100개 수집: Collabo07.png, 5
+  - Fighting Spirit 232,000개 수집: Collabo07.png, 5
+- Burning Kurosagi Castle (어나더 던전) (8)
+  - Moonstruck Obsidian 7,500개 수집: Toho_gaiten_3_token.png, 3
+  - Moonstruck Obsidian 24,900개 수집: Toho_gaiten_3_token.png, 5
+- 허시의 층. 시간의 제국. Volume 4 (1)
+  - Edax Airport, 위에서 2번째 줄 중앙, 숨겨진 길로 오른쪽 이동: Standard_rare.png, 1
+- 환리경 (5)
+  - 기타: Paw Stamps 400개: None, 5
+- Comrade's Reflection Cerrine (0)
+  - 맹세: 3턴 이내: None, 1
+- Comrade's Reflection Cerrine (0)
+  - 맹세: Another Force 사용 없이: None, 2
+- Phantom Rugal (0)
+  - 맹세: 1명 이상의 KOF 아군: None, 2
+- Phantom Rugal (0)
+  - 맹세: 아군 쓰러짐 없이: None, 1
+- Synth Drone (0)
+  - 맹세: 10턴 이상 후: None, 1
+  - 맹세: 아군 쓰러짐 없이: None, 2
+- Synth Drone (0)
+  - 맹세: 2명 이상의 Fire 아군: None, 1
+- Gidrun (0)
+  - 맹세: Ashtear 파티 포함: None, 2
+- Gidrun (0)
+  - 맹세: 1명 이상의 안경 아군: None, 1
+
+
+## Guiding Light (Hammer) = 87
+
+- 논리의 정점과 Cardinal Scales (3)
+  - 교환: Wasteland House - Researcher Shop - 2x500 Wasteland Antibodies: None, 2
+  - Wasteland Channel Sector B1 (좌하단, 잔해 제거에 Neutralizer 1개 필요): Standard_rare.png, 1
+- 시간의 탄광과 꿈꾸는 마을 (10)
+  - 첫 번째 Rope 획득: Gift_mail.png, 5
+  - 첫 번째 Potion 획득: Gift_mail.png, 5
+- 천공의 탑과 그림자 마녀 (10)
+  - Dark Residue 32,500개 수집: Gaiden_medousa.png, 2
+  - Dark Residue 132,500개 수집: Gaiden_medousa.png, 2
+  - Dark Residue 345,000개 수집: Gaiden_medousa.png, 3
+  - Dark Residue 722,500개 수집: Gaiden_medousa.png, 3
+- 폐쇄된 오픈 월드와 푸른 반역자 (10)
+  - Time Layers Force 38,500개 수집: Gaiden_galiard.png, 2
+  - Time Layers Force 121,000개 수집: Gaiden_galiard.png, 2
+  - Time Layers Force 221,000개 수집: Gaiden_galiard.png, 3
+  - Time Layers Force 321,000개 수집: Gaiden_galiard.png, 3
+- 동방이전. 시간의 여신 귀환. Volume 3: 결말 (5)
+  - Pador 여관 뒤 나무 키우기 숨겨진 퀘스트, 3층: Standard_rare.png, 5
+- 옛 영웅들과 새겨진 맹세 (7)
+  - 하단 문 구역의 상단 경로 왼쪽 끝: Standard_rare.png, 2
+  - 시련: Trial Home의 Lost Atelier - Graveyard 15분 이내 클리어: None, 5
+- 훈장/기타 (5)
+  - Pale Scarlet Stones 3,500개 수집: Copper_Rank_Badge.png, 2
+  - Sapient Illusions 1,000개 수집: Copper_Rank_Badge.png, 3
+- 허시의 층. 시간의 제국. Volume 1 (4)
+  - Lightspark Hollow Layer 5 - (첫 번째 구역, 하단 중앙): Standard_rare.png, 2
+  - Barkhelm (중앙 왼쪽, 숨겨진 구역): Standard_rare.png, 2
+- 시간의 요람 (2)
+  - Arboreal Tear 280개 수집: None, 1
+  - Arboreal Tear 1,000개 수집: None, 1
+- Mysterious Vortex - Warped Cochlea (어나더 던전) (4)
+  - Time Spindle 40,500개 수집: Gaiden_wandergirl.png, 4
+- 성영의 서가 (12)
+  - 봉인 몬스터 Galliard 처치 및 모든 맹세 클리어 맹세: 15턴 이내: Tomes.png, 1
+  - 봉인 몬스터 VH Galliard 처치 및 모든 맹세 클리어 맹세: 4명 이하의 아군: Tomes.png, 2
+  - 봉인 몬스터 Ghastly Mizuchi 처치 및 모든 맹세 클리어 맹세: Another Force 사용 없이: Tomes.png, 1
+  - 봉인 몬스터 VH Ghastly Mizuchi 처치 및 모든 맹세 클리어 맹세: 3명 이하의 5성 클래스 아군: Tomes.png, 2
+  - 기억 Ice Jailer 처치 및 모든 맹세 클리어 맹세: 아군 쓰러짐 없이: Tomes.png, 1
+  - 기억 Ice Jailer 처치 및 모든 맹세 클리어 맹세: Zone 사용 없이: Tomes.png, 2
+  - 복원 레벨 17 달성: Tomes.png, 1
+  - 복원 레벨 37 달성: Tomes.png, 1
+  - 복원 레벨 57 달성: Tomes.png, 1
+- 허시의 층. 시간의 제국. Volume 2 (2)
+  - 잠수: Wandering Miu's Map #6: None, 2
+- 땅끝의 포로와 인도의 팔중주 (1)
+  - Lost Man을 Supervisor에게 데려다주기: Standard_rare.png, 1
+- 불완전한 낙원 (1)
+  - Proto Eden - Lab Division 2 (중앙, 파란 봉쇄 뒤): Standard_rare.png, 1
+- 허시의 층. 시간의 제국. Volume 3 (3)
+  - Illusory Medal Misprints - 70개: Key_item.png, 2
+  - Magic Ore Tunnels (2번째 구역): Standard_rare.png, 1
+- 허시의 층. 시간의 제국. Volume 4 (3)
+  - Edax Abyss - Geometria (좌하단 느낌표로 표시된 맵): Standard_rare.png, 1
+  - Edax Spark Forge A Line, 우상단: Standard_rare.png, 2
+- 환리경 (5)
+  - 기타: Paw Stamps 1,340개: None, 5
+- Galliard (0)
+  - 맹세: 15턴 이내: None, 1
+- Galliard (0)
+  - 맹세: 4명 이하의 아군: None, 2
+- Ghastly Mizuchi (0)
+  - 맹세: Another Force 사용 없이: None, 1
+- Ghastly Mizuchi (0)
+  - 맹세: 3명 이하의 5성 클래스 아군: None, 2
+- Ice Jailer (0)
+  - 맹세: 아군 쓰러짐 없이: None, 1
+- Ice Jailer (0)
+  - 맹세: Zone 사용 없이: None, 2
+
+
+## Guiding Light (Katana) = 116
+
+- 논리의 정점과 Cardinal Scales (4)
+  - 교환: Toto Dream Ocean Shop - 10 Toto Dream Ocean Point: None, 3
+  - 미니게임: Part-time Stickers 900개 수집: None, 1
+- 시간의 탄광과 꿈꾸는 마을 (5)
+  - Mine 3 상자: Standard_rare.png, 5
+- 고양이를 넘어선 고양이 (5)
+  - 고양이들: Serena Coast 상자: Standard_rare.png, 5
+- 창백한 여명의 왕관 (4)
+  - Dream Petals 61,000개 수집: Collabo05.png, 4
+- 동방이전. 시간의 여신 귀환. Volume 3: 결말 (5)
+  - Pador 여관 뒤 나무 키우기 숨겨진 퀘스트, 5층: Standard_rare.png, 5
+- Complex Dream (크로노 크로스) (10)
+  - Growth Star 10,500개 수집: Collabo_chrono_cross.png, 5
+  - Growth Star 172,000개 수집: Collabo_chrono_cross.png, 5
+- 방황하는 소녀와 영겁의 소용돌이 (2)
+  - Mercy Keep - Basement - "3개의 상자 방" (3F 하단에서, Keep 오른쪽으로 내려가기, 모든 레버/체인 필요): Standard_rare.png, 2
+- 훈장/기타 (9)
+  - 퀘스트 "Symphony: Complex Dream" veteran 클리어: Silver_Rank_Badge.png, 5
+  - Seven-Color Fragments 1,000개 수집: Copper_Rank_Badge.png, 2
+  - Seven-Color Fragments 16,000개 수집: Copper_Rank_Badge.png, 2
+- 허시의 층. 시간의 제국. Volume 1 (5)
+  - Lightspark Hollow Layer 1 - (Layer 5에서의 지름길, 하단 중앙): Standard_rare.png, 2
+  - Rulezzo Underground Lake (Strissal Highlands Layer 2에서 오른쪽으로 점프): Standard_rare.png, 2
+  - 잠수: Legendary Treasure Map - #4: None, 1
+- 시간의 요람 (2)
+  - Arboreal Tear 460개 수집: None, 2
+- 성영의 서가 (28)
+  - 시련 전투: Preeminent Azami 도전: Tomes.png, 3
+  - 봉인 몬스터 VH Comrade's Reflection Azami 처치 및 모든 맹세 클리어 맹세: Another Force 사용 없이: Tomes.png, 2
+  - 봉인 몬스터 Comrade's Reflection Azami 처치 및 모든 맹세 클리어 맹세: 3턴 이내: Tomes.png, 1
+  - 봉인 몬스터 VH Dark Salamander 처치 및 모든 맹세 클리어 맹세: 2명 이상의 Water 아군: Tomes.png, 2
+  - 봉인 몬스터 Dark Salamander 처치 및 모든 맹세 클리어 맹세: 4명 이상의 Light 아군: Tomes.png, 1
+  - 봉인 몬스터 Hell Ogre, Death Ogre 처치 및 모든 맹세 클리어 맹세: 5턴 이내: Tomes.png, 1
+  - 봉인 몬스터 VH Hell Ogre, Death Ogre 처치 및 모든 맹세 클리어 맹세: Cyrus 파티 포함 맹세: 4명 이하의 아군: Tomes.png, 2
+  - 봉인 몬스터 Karakuri 처치 및 모든 맹세 클리어 맹세: 2명 이상의 도 아군: Tomes.png, 1
+  - 봉인 몬스터 VH Karakuri 처치 및 모든 맹세 클리어 맹세: 5턴 이내: Tomes.png, 2
+  - 봉인 몬스터 Miroku Disaster 처치 및 모든 맹세 클리어 맹세: Normal Style 아군만 맹세: 4명 이하의 아군: Tomes.png, 1
+  - 봉인 몬스터 VH Miroku Disaster 처치 및 모든 맹세 클리어 맹세: 비Gallery 아군만: Tomes.png, 2
+  - 봉인 몬스터 VH Karakuri War Demon 처치 및 모든 맹세 클리어 맹세: Zone 사용 없이: Tomes.png, 2
+  - 봉인 몬스터 Karakuri War Demon 처치 및 모든 맹세 클리어 맹세: 1명 이상의 동방 아군: Tomes.png, 1
+  - 기억 Rooted Spectortoise 처치 및 모든 맹세 클리어 맹세: Another Force 사용 없이: Tomes.png, 2
+  - 기억 Rooted Spectortoise 처치 및 모든 맹세 클리어 맹세: 아군 쓰러짐 없이: Tomes.png, 1
+  - 복원 레벨 6 달성: Tomes.png, 1
+  - 복원 레벨 26 달성: Tomes.png, 1
+  - 복원 레벨 46 달성: Tomes.png, 1
+  - 복원 레벨 66 달성: Tomes.png, 1
+- Mysterious Vortex - Warped Cochlea (어나더 던전) (4)
+  - Time Spindle 9,000개 수집: Gaiden_wandergirl.png, 4
+- 땅끝의 포로와 인도의 팔중주 (1)
+  - Atratt Manor Treasury: Standard_rare.png, 1
+- Burning Kurosagi Castle (어나더 던전) (8)
+  - Moonstruck Obsidian 4,800개 수집: Toho_gaiten_3_token.png, 3
+  - Moonstruck Obsidian 20,700개 수집: Toho_gaiten_3_token.png, 5
+- 허시의 층. 시간의 제국. Volume 4 (1)
+  - Edax Hokishi Forest, 아래에서 2번째 줄 왼쪽, 숨겨진 길로 오른쪽 이동: Standard_rare.png, 1
+- 다른 하늘의 기억 (15)
+  - 구매: Chocobo Points 2,500개: None, 5
+  - Jewel 5,200개 수집: Collabo09_currency_b.png, 5
+  - Jewel 41,600개 수집: Collabo09_currency_b.png, 5
+- 토토 시어터 월드 (어나더 던전) (1)
+  - Staff Room 내 - Lost Woods - Area 2에서 접근, Mimi 구출 후 Toto's Village의 Tavern 내 흰색 빛 확인: Standard_rare.png, 1
+- 환리경 (5)
+  - 기타: Paw Stamps 30개: None, 5
+- Comrade's Reflection Azami (0)
+  - 맹세: Another Force 사용 없이: None, 2
+- Comrade's Reflection Azami (0)
+  - 맹세: 3턴 이내: None, 1
+- Dark Salamander (0)
+  - 맹세: 2명 이상의 Water 아군: None, 2
+- Dark Salamander (0)
+  - 맹세: 4명 이상의 Light 아군: None, 1
+- Hell Ogre, Death Ogre (0)
+  - 맹세: 5턴 이내: None, 1
+- Hell Ogre, Death Ogre (0)
+  - 맹세: Cyrus 파티 포함: None, 1
+  - 맹세: 4명 이하의 아군: None, 2
+- Karakuri (0)
+  - 맹세: 2명 이상의 도 아군: None, 1
+- Karakuri (0)
+  - 맹세: 5턴 이내: None, 2
+- Miroku Disaster (0)
+  - 맹세: Normal Style 아군만: None, 1
+  - 맹세: 4명 이하의 아군: None, 1
+- Miroku Disaster (0)
+  - 맹세: 비Gallery 아군만: None, 2
+- Karakuri War Demon (0)
+  - 맹세: Zone 사용 없이: None, 2
+- Karakuri War Demon (0)
+  - 맹세: 1명 이상의 동방 아군: None, 1
+- Rooted Spectortoise (0)
+  - 맹세: Another Force 사용 없이: None, 2
+- Rooted Spectortoise (0)
+  - 맹세: 아군 쓰러짐 없이: None, 1
+
+
+## Guiding Light (Lance) = 146
+
+- IDA 스쿨 1: Absolute Zero Chain (10)
+  - Scores 9,000개 수집: Gaiden_jade.png, 2
+  - Scores 60,000개 수집: Gaiden_jade.png, 2
+  - Scores 160,000개 수집: Gaiden_jade.png, 3
+  - Scores 270,000개 수집: Gaiden_jade.png, 3
+- 작은 공주의 작은 큰 모험 (10)
+  - Chapter 1 상자: Standard_rare.png, 2
+  - Chapter 5 상자: Standard_rare.png, 3
+  - Uninspiring Ax № 1을 Pond 2에 던지기. Chapters 1,4,6.: None, 2
+  - Uninspiring Ax № 5를 Pond 4에 던지기. Chapter 6.: None, 3
+- 삼천 세계의 방주와 심해 (21)
+  - Stormy Sea - 4th Level (상단 중앙): Standard_rare.png, 5
+  - Celestial Soul 12,500개 수집: Celestialsoul.png, 2
+  - Celestial Soul 65,000개 수집: Celestialsoul.png, 2
+  - Celestial Soul 175,000개 수집: Celestialsoul.png, 3
+  - Celestial Soul 380,000개 수집: Celestialsoul.png, 3
+  - Celestial Soul 555,000개 수집: Celestialsoul.png, 3
+  - Celestial Soul 630,000개 수집: Celestialsoul.png, 3
+- Complex Dream (크로노 크로스) (3)
+  - Another Moonlight Forest Heart 파란 상자 (우상단): Standard_rare.png, 3
+- 방황하는 소녀와 영겁의 소용돌이 (10)
+  - Thundering Fortress - Central Accessway (중상단): Standard_rare.png, 1
+  - Thundering Fortress - Central Base (우상단, 잠긴 문 뒤): Standard_rare.png, 1
+  - Kelkale Palace - Library (책장을 사용해 숨겨진 방 열기): Standard_rare.png, 2
+  - Mercy Keep - 3F (4F 좌하단에서 체인 사용): Standard_rare.png, 2
+  - Mercy Keep - 3F (우상단, Horror 뒤): Standard_rare.png, 2
+  - Mercy Keep - Basement - "3개의 상자 방" (3F 하단에서, Keep 오른쪽으로 내려가기, 모든 레버/체인 필요): Standard_rare.png, 2
+- 훈장/기타 (14)
+  - Lazuline Stones 5,500개 수집: Copper_Rank_Badge.png, 2
+  - Levin Fragments 3,000개 수집: Copper_Rank_Badge.png, 2
+  - Jade Fragments 3,000개 수집: Copper_Rank_Badge.png, 2
+  - Levin Fragments 23,000개 수집: Copper_Rank_Badge.png, 2
+  - Jade Fragments 23,000개 수집: Copper_Rank_Badge.png, 2
+  - Seven-Color Fragments 3,000개 수집: Copper_Rank_Badge.png, 2
+  - Seven-Color Fragments 23,000개 수집: Copper_Rank_Badge.png, 2
+- 허시의 층. 시간의 제국. Volume 1 (3)
+  - Shore Runner Passenger Car #2 (2개의 스팀파이프 문 열기, 호러 뒤): Standard_rare.png, 2
+  - 잠수: Shipwreck Central Map - #14: None, 1
+- 시간의 요람 (2)
+  - Arboreal Tear 40개 수집: None, 1
+  - Arboreal Tear 400개 수집: None, 1
+- 허시의 층. 시간의 제국. Volume 2 (2)
+  - 잠수: Ancient Adventurer's Map #4: None, 2
+- 성영의 서가 (33)
+  - 시련 전투: Wyrmking 도전: Tomes.png, 3
+  - 봉인 몬스터 VH Wyrmking 처치 및 모든 맹세 클리어 맹세: 1명 이상의 Arcadia 아군: Tomes.png, 2
+  - 봉인 몬스터 Wyrmking 처치 및 모든 맹세 클리어 맹세: 아군 쓰러짐 없이: Tomes.png, 1
+  - 시련 전투: Wyrmking's Envoy 도전: Tomes.png, 3
+  - 봉인 몬스터 VH Wyrmking's Envoy 처치 및 모든 맹세 클리어 맹세: 1명 이상의 Arcadia 아군: Tomes.png, 2
+  - 봉인 몬스터 Wyrmking's Envoy 처치 및 모든 맹세 클리어 맹세: 아군 쓰러짐 없이: Tomes.png, 1
+  - 시련 전투: Malice Dragon Veilis 도전: Tomes.png, 3
+  - 봉인 몬스터 Malice Dragon Veilis 처치 및 모든 맹세 클리어 맹세: 아군 쓰러짐 없이: Tomes.png, 1
+  - 봉인 몬스터 VH Malice Dragon Veilis 처치 및 모든 맹세 클리어 맹세: 1명 이상의 Arcadia 아군: Tomes.png, 2
+  - 봉인 몬스터 VH Dragon God's Envoy 처치 및 모든 맹세 클리어 맹세: 5턴 이내: Tomes.png, 2
+  - 봉인 몬스터 Dragon God's Envoy 처치 및 모든 맹세 클리어 맹세: Aldo 파티 포함: Tomes.png, 1
+  - 봉인 몬스터 VH King Tsuchino-Bunmei 처치 및 모든 맹세 클리어 맹세: 4명 이하의 파티원: Tomes.png, 2
+  - 봉인 몬스터 King Tsuchino-Bunmei 처치 및 모든 맹세 클리어 맹세: 5턴 이내: Tomes.png, 1
+  - 봉인 몬스터 VH Titan Ogre 처치 및 모든 맹세 클리어 맹세: Light 아군만: Tomes.png, 2
+  - 봉인 몬스터 Titan Ogre 처치 및 모든 맹세 클리어 맹세: 아군 쓰러짐 없이: Tomes.png, 1
+  - 봉인 몬스터 VH Nidhogg 처치 및 모든 맹세 클리어 맹세: Aldo 파티 포함 맹세: 4명 이하의 아군: Tomes.png, 2
+  - 봉인 몬스터 Nidhogg 처치 및 모든 맹세 클리어 맹세: 5턴 이내 맹세: 4명 이하의 아군: Tomes.png, 1
+  - 복원 레벨 19 달성: Tomes.png, 1
+  - 복원 레벨 39 달성: Tomes.png, 1
+  - 복원 레벨 59 달성: Tomes.png, 1
+- 땅끝의 포로와 인도의 팔중주 (1)
+  - Atratt Manor 4F; Horror 뒤 상자: Standard_rare.png, 1
+- 벌룡 공주 기담 I (4)
+  - Aquatail Wilds Cave (Water Ruler 뒤): Standard_rare.png, 4
+- Wyrmrest Isle - Quadra Wastes (어나더 던전) (3)
+  - 22,500개 수집: Gaiden_serial1.png, 3
+- Wyrmrest Isle - Dragon's Depths (어나더 던전) (3)
+  - 22,500개 수집: Gaiden_serial2.png, 3
+- Darkrealm - Wyrmking's Domain (어나더 던전) (6)
+  - 7,500개 수집: Gaiden_serial3.png, 3
+  - 22,500개 수집: Gaiden_serial3.png, 3
+- 허시의 층. 시간의 제국. Volume 3 (5)
+  - Zevan Bridge (Petalfall Village 근처): Standard_rare.png, 2
+  - The Emperor's Road (1번째 구역): Standard_rare.png, 2
+  - Boiling Caves of Gazarak (1번째 구역 우상단): Standard_rare.png, 1
+- 허시의 층. 시간의 제국. Volume 4 (1)
+  - Edax Itoise, 우물 안: Standard_rare.png, 1
+- 낙일의 폐허와 광휘의 수호자 (1)
+  - Lost Sector - Ward B 북동쪽 상자: Standard_rare.png, 1
+- 토토 시어터 월드 (어나더 던전) (1)
+  - Turbo Handy Fan: Lost Forest의 Beehive에서 사용: Standard_rare.png, 1
+- 캐릭터 (1)
+  - Noble Blossom 퀘스트 1 클리어: 4_q.png, 1
+- 환리경 (5)
+  - 기타: Paw Stamps 770개: None, 5
+- Wyrmking (0)
+  - 맹세: 1명 이상의 Arcadia 아군: None, 2
+- Wyrmking (0)
+  - 맹세: 아군 쓰러짐 없이: None, 1
+- Wyrmking's Envoy (0)
+  - 맹세: 1명 이상의 Arcadia 아군: None, 2
+- Wyrmking's Envoy (0)
+  - 맹세: 아군 쓰러짐 없이: None, 1
+- Malice Dragon Veilis (0)
+  - 맹세: 아군 쓰러짐 없이: None, 1
+- Malice Dragon Veilis (0)
+  - 맹세: 1명 이상의 Arcadia 아군: None, 2
+- Dragon God's Envoy (0)
+  - 맹세: 5턴 이내: None, 2
+- Dragon God's Envoy (0)
+  - 맹세: Aldo 파티 포함: None, 1
+- King Tsuchino-Bunmei (0)
+  - 맹세: 4명 이하의 파티원: None, 2
+- King Tsuchino-Bunmei (0)
+  - 맹세: 5턴 이내: None, 1
+- Titan Ogre (0)
+  - 맹세: Light 아군만: None, 2
+- Titan Ogre (0)
+  - 맹세: 아군 쓰러짐 없이: None, 1
+- Nidhogg (0)
+  - 맹세: Aldo 파티 포함: None, 1
+  - 맹세: 4명 이하의 아군: None, 2
+- Nidhogg (0)
+  - 맹세: 5턴 이내: None, 1
+  - 맹세: 4명 이하의 아군: None, 1
+
+
+## Guiding Light (Staff) = 132
+
+- 논리의 정점과 Cardinal Scales (3)
+  - 교환: Wasteland House - Researcher Shop - 2x500 Wasteland Antibodies: None, 2
+  - Wasteland Channel Sector B1 (하단 중앙 B2 통과, 잔해 제거에 Neutralizer 1개 필요): Standard_rare.png, 1
+- 천년의 상자, 해신의 신전 (5)
+  - Black Pearls 30개 수집: Gaiden_shiela_black.png, 5
+- 시간의 탄광과 꿈꾸는 마을 (5)
+  - Mine 3 상자: Standard_rare.png, 5
+- IDA 스쿨 2: 나비의 도시와 천국의 요람 (10)
+  - Cocoon's Dreams 15,000개 수집: Gaiden_Saki.png, 2
+  - Cocoon's Dreams 67,500개 수집: Gaiden_Saki.png, 2
+  - Cocoon's Dreams 185,000개 수집: Gaiden_Saki.png, 3
+  - Cocoon's Dreams 360,000개 수집: Gaiden_Saki.png, 3
+- 두 영혼의 인연과 공허의 괴뢰사 (3)
+  - Bear's Path 상자: Standard_rare.png, 3
+- 창백한 여명의 왕관 (4)
+  - Dream Petals 180,000개 수집: Collabo05.png, 4
+- Complex Dream (크로노 크로스) (3)
+  - Another Serena Coast 파란 상자 (중앙, 하단): Standard_rare.png, 3
+- 훈장/기타 (7)
+  - Sapient Illusions 2,000개 수집: Copper_Rank_Badge.png, 3
+  - Platina Fragments 7,000개 수집: Copper_Rank_Badge.png, 2
+  - Platina Fragments 29,000개 수집: Copper_Rank_Badge.png, 2
+- 방황하는 소녀와 영겁의 소용돌이 (4)
+  - The Tower Argentauri - Disposal Sector 2F (왼쪽), 호러 뒤: Standard_rare.png, 1
+  - The Tower Argentauri - Aurum (왼쪽), Record Storage 내: Standard_rare.png, 2
+  - The Tower Argentauri - Aurum (오른쪽), Food Storage 내, 숨겨진 벽 뒤: Disposal Sector의 Homunculus를 케이지에 넣기: Standard_rare.png, 1
+- 허시의 층. 시간의 제국. Volume 1 (4)
+  - Ghost Ship (상단 2층 갑판): Standard_rare.png, 2
+  - 잠수: Legendary Treasure Map - #2: None, 2
+- 시간의 요람 (2)
+  - Arboreal Tear 100개 수집: None, 1
+  - Arboreal Tear 400개 수집: None, 1
+- 성영의 서가 (21)
+  - Ludovica 확인 후 Lonely Castle에서 Serious Guy의 요청 클리어: Tomes.png, 1
+  - 시련 전투: Karna Genesis 도전: Tomes.png, 1
+  - 봉인 몬스터 Visus Embryo 처치 및 모든 맹세 클리어 맹세: Zone 사용 없이: Tomes.png, 1
+  - 봉인 몬스터 VH Visus Embryo 처치 및 모든 맹세 클리어 맹세: Light 아군만: Tomes.png, 2
+  - 봉인 몬스터 Big Gonjuro 처치 및 모든 맹세 클리어 맹세: 아군 쓰러짐 없이: Tomes.png, 1
+  - 봉인 몬스터 VH Big Gonjuro 처치 및 모든 맹세 클리어 맹세: 10턴 이상 후: Tomes.png, 2
+  - 봉인 몬스터 Hoe Ko 처치 및 모든 맹세 클리어 맹세: 아군 쓰러짐 없이: Tomes.png, 1
+  - 봉인 몬스터 VH Hoe Ko 처치 및 모든 맹세 클리어 맹세: AF 한 번에 500만 데미지 후: Tomes.png, 2
+  - 봉인 몬스터 Zomas 86 처치 및 모든 맹세 클리어 맹세: Another Force 사용 없이: Tomes.png, 1
+  - 봉인 몬스터 VH Zomas 86 처치 및 모든 맹세 클리어 맹세: 8턴 이내: Tomes.png, 2
+  - 시련 전투: Kidnap Machine 도전: Tomes.png, 3
+  - 복원 레벨 2 달성: Tomes.png, 1
+  - 복원 레벨 22 달성: Tomes.png, 1
+  - 복원 레벨 42 달성: Tomes.png, 1
+  - 복원 레벨 62 달성: Tomes.png, 1
+- 허시의 층. 시간의 제국. Volume 2 (4)
+  - Arkiris Plains (Iron Arm 필요) 남서쪽 경로 (좌하단 모서리): Standard_rare.png, 2
+  - 잠수: Lost Delivery Map #11: None, 2
+- Wyrmrest Isle - Quadra Wastes (어나더 던전) (3)
+  - 7,500개 수집: Gaiden_serial1.png, 3
+- 땅끝의 포로와 인도의 팔중주 (1)
+  - Saltore Mines East (Flexible Rope와 Sturdy Ladder 필요): Standard_rare.png, 1
+- 허시의 층. 시간의 제국. Volume 3 (3)
+  - The Glass Mausoleum (5번째 방, 상단 중앙): Standard_rare.png, 2
+  - Laika: 최북단 (위치: 상단 중앙 Illusialand - Dream Teatime): None, 1
+- Burning Kurosagi Castle (어나더 던전) (8)
+  - Moonstruck Obsidian 13,500개 수집: Toho_gaiten_3_token.png, 3
+  - Moonstruck Obsidian 34,500개 수집: Toho_gaiten_3_token.png, 5
+- 만고의 죄와 불복의 칼날 (4)
+  - Parallel Kurosagi Castle 3층, 호러 뒤: Standard_rare.png, 1
+  - Parallel Time Layer - Izana에서 Old Garulean Coins 5개 교환: Standard_rare.png, 3
+- 지혜의 결정과 비밀의 성 (13)
+  - Lonely Castle 1F (Mining Site의 계단 - Researcher 요청): Standard_rare.png, 3
+  - Blended Wisdom 10,500개 수집: Collabo08.png, 5
+  - Blended Wisdom 46,900개 수집: Collabo08.png, 5
+- 허시의 층. 시간의 제국. Volume 4 (1)
+  - Edax Nuaru Uplands, 우상단: Standard_rare.png, 1
+- 다른 하늘의 기억 (15)
+  - 구매: Chocobo Points 2,500개: None, 5
+  - Jewel 18,200개 수집: Collabo09_currency_b.png, 5
+  - Jewel 80,800개 수집: Collabo09_currency_b.png, 5
+- Black Mage Village (1)
+  - Gaia (Forgotten Continent 하단): Standard_rare.png, 1
+- 환리경 (5)
+  - 기타: Paw Stamps 260개: None, 5
+- 캐릭터 (1)
+  - Porcelain Pixie 퀘스트 1 클리어: 4_q.png, 1
+- Visus Embryo (0)
+  - 맹세: Zone 사용 없이: None, 1
+- Visus Embryo (0)
+  - 맹세: Light 아군만: None, 2
+- Big Gonjuro (0)
+  - 맹세: 아군 쓰러짐 없이: None, 1
+- Big Gonjuro (0)
+  - 맹세: 10턴 이상 후: None, 2
+- Hoe Ko (0)
+  - 맹세: 아군 쓰러짐 없이: None, 1
+- Hoe Ko (0)
+  - 맹세: AF 한 번에 500만 데미지 후: None, 2
+- Zomas 86 (0)
+  - 맹세: Another Force 사용 없이: None, 1
+- Zomas 86 (0)
+  - 맹세: 8턴 이내: None, 2
+
+
+## Guiding Light (Sword) = 248
+
+- 두 기사와 성검 (10)
+  - Miglancian Magic Points 15,000개 수집: Gaiden_diadora.png, 2
+  - Miglancian Magic Points 90,000개 수집: Gaiden_diadora.png, 2
+  - Miglancian Magic Points 280,000개 수집: Gaiden_diadora.png, 3
+  - Miglancian Magic Points 570,000개 수집: Gaiden_diadora.png, 3
+- 작은 공주의 작은 큰 모험 (10)
+  - Chapter 3 상자: Standard_rare.png, 2
+  - Chapter 5 상자: Standard_rare.png, 3
+  - Uninspiring Ax № 3을 Pond 1에 던지기. Chapters 1,3,6.: None, 2
+  - Uninspiring Ax № 10을 Pond 4에 던지기. Chapter 6.: None, 3
+- 이국의 하늘과 자유를 향한 방주 (10)
+  - Chapter 1 상자: Standard_rare.png, 1
+  - Chapter 2 상자: Standard_rare.png, 1
+  - Chapter 4 상자: Standard_rare.png, 2
+  - Chapter 6 상자: Standard_rare.png, 1
+  - Metallic Maiden's Bone № 1을 Dog 3에게 전달. Chapters 2-6: None, 2
+  - Metallic Maiden's Bone № 5를 Dog 4에게 전달. Chapter 6: None, 3
+- 첫 번째 기사와 성검 (10)
+  - Ethereal Dewdrops Points 12,500개 수집: Gaiden_diadora2.png, 2
+  - Ethereal Dewdrops Points 65,000개 수집: Gaiden_diadora2.png, 2
+  - Ethereal Dewdrops Points 175,000개 수집: Gaiden_diadora2.png, 3
+  - Ethereal Dewdrops Points 380,000개 수집: Gaiden_diadora2.png, 3
+- 시간의 꼬리와 용감한 넷: Tales of Chronographia (15)
+  - Vulga Mountain Road 상자: Standard_rare.png, 3
+  - Citadel of Time - Upper Sector 상자: Standard_rare.png, 3
+  - Dreamcolor Ink 10,500개 수집: Collabo_tales.png, 3
+  - Dreamcolor Ink 26,100개 수집: Collabo_tales.png, 3
+  - Dreamcolor Ink 120,000개 수집: Collabo_tales.png, 3
+- 두 영혼의 인연과 공허의 괴뢰사: 약속, 맹세 그리고 반지 (11)
+  - Main Hub 상자: Standard_rare.png, 1
+  - Decayed Thought Leaves 9,700개 수집: Collabo_p5_1.png, 2
+  - Decayed Thought Leaves 43,500개 수집: Collabo_p5_1.png, 2
+  - Decayed Thought Leaves 111,100개 수집: Collabo_p5_1.png, 3
+  - Decayed Thought Leaves 214,900개 수집: Collabo_p5_1.png, 3
+- 창백한 여명의 왕관 (9)
+  - Consuming Tree (Aldo 루트의 첫 번째 Horror 뒤): Standard_rare.png, 3
+  - Consuming Tree (반지로 자란 나무 다리 건너편, Amy 루트): Standard_rare.png, 2
+  - Dream Petals 394,400개 수집: Collabo05.png, 4
+- 동방이전. 시간의 여신 귀환. Volume 3: 결말 (15)
+  - Pador 여관 뒤 나무 키우기 숨겨진 퀘스트, 2층: Standard_rare.png, 5
+  - Mark of Man's Tomb - Lower Level (숨겨진 길의 하단 중앙): Standard_rare.png, 5
+  - Mark of Man's Tomb - Lower Level (좌상단, 호러 뒤): Standard_rare.png, 5
+- 옛 영웅들과 새겨진 맹세 (3)
+  - Hero's Graveyard 상자: Standard_rare.png, 1
+  - 중앙 문 뒤 구역: Standard_rare.png, 2
+- Complex Dream (크로노 크로스) (10)
+  - Growth Star 1,300개 수집: Collabo_chrono_cross.png, 5
+  - Growth Star 46,900개 수집: Collabo_chrono_cross.png, 5
+- 방황하는 소녀와 영겁의 소용돌이 (9)
+  - Unclean Lands (오른쪽, 호러 뒤): Standard_rare.png, 3
+  - Tower of Selection 3F (우상단 이동 플랫폼 아래, 왼쪽으로 이동 후 복귀); 시간 되감기 후 봉인 해제된 형태로 Tower 재방문: Standard_rare.png, 2
+  - Tower of Selection 5F - Side Room (좌상단); 시간 되감기 후 봉인 해제된 형태로 Tower 재방문: Standard_rare.png, 1
+  - Clock Tower - Basement (퀘스트 Clock Tower's Secret에서 해금): Standard_rare.png, 1
+  - Forest of Whispers - Highland E (상단): Standard_rare.png, 1
+  - Forest of Whispers - Cradle Cave N (Tower Basement에서 접근, Thank You Always 사이드퀘스트 후): Standard_rare.png, 1
+- 훈장/기타 (27)
+  - 퀘스트 "Symphony: Complex Dream" standard 클리어: Silver_Rank_Badge.png, 5
+  - Pale Scarlet Stones 1,000개 수집: Copper_Rank_Badge.png, 2
+  - Pale Scarlet Stones 5,500개 수집: Copper_Rank_Badge.png, 2
+  - True Scarlet Stones 3,500개 수집: Copper_Rank_Badge.png, 2
+  - Lazuline Stones 3,500개 수집: Copper_Rank_Badge.png, 2
+  - True Scarlet Stones 5,500개 수집: Copper_Rank_Badge.png, 2
+  - Lazuline Stones 12,500개 수집: Copper_Rank_Badge.png, 2
+  - Jade Fragments 1,000개 수집: Copper_Rank_Badge.png, 2
+  - Jade Fragments 16,000개 수집: Copper_Rank_Badge.png, 2
+  - Immaculate Fragments 3,000개 수집: Copper_Rank_Badge.png, 2
+  - Immaculate Fragments 16,000개 수집: Copper_Rank_Badge.png, 2
+  - Immaculate Fragments 23,000개 수집: Copper_Rank_Badge.png, 2
+- 허시의 층. 시간의 제국. Volume 1 (2)
+  - Mt. Weissel - (좌상단, 캠프장 아래, <Super Alloy Drill> 능력 필요): Standard_rare.png, 2
+- 시간의 요람 (2)
+  - Arboreal Tear 400개 수집: None, 1
+  - Arboreal Tear 1,000개 수집: None, 1
+- 장성의 도끼와 갑주의 양 (2)
+  - Wulfpack Manor - Vault 왼쪽 상자: Standard_rare.png, 2
+- 성영의 서가 (25)
+  - 시련 전투: Memory Incarnated Dragon God's Might + Aldo 도전: Tomes.png, 3
+  - 기억 Incarnated Aldo 처치 및 모든 맹세 클리어 맹세: Another Force 사용 없이 클리어: Tomes.png, 2
+  - 기억 Incarnated Aldo 처치 및 모든 맹세 클리어 맹세: 3턴 이내 클리어: Tomes.png, 1
+  - Travelers' Curse 처치 및 모든 맹세 클리어 맹세: 1명 이상의 Traveler 아군: Tomes.png, 2
+  - Travelers' Curse 처치 및 모든 맹세 클리어 맹세: 아군 쓰러짐 없이 클리어: Tomes.png, 1
+  - 봉인 몬스터 VH Beast Vares 처치 및 모든 맹세 클리어 맹세: AF 한 번에 500만 데미지: Tomes.png, 2
+  - 봉인 몬스터 Beast Vares 처치 및 모든 맹세 클리어 맹세: 아군 쓰러짐 없이: Tomes.png, 1
+  - 봉인 몬스터 VH Zennon Ogre 처치 및 모든 맹세 클리어 맹세: 다른 조건과 동시에 맹세: Aldo 파티 포함 맹세: Free Characters만: Tomes.png, 2
+  - 봉인 몬스터 Zennon Ogre 처치 및 모든 맹세 클리어 맹세: Another Style 아군만 맹세: 4명 이하의 아군: Tomes.png, 1
+  - 봉인 몬스터 VH Slash Demon & Cleave Demon 처치 및 모든 맹세 클리어 맹세: 아군 쓰러짐 없이: Tomes.png, 2
+  - 봉인 몬스터 Slash Demon & Cleave Demon 처치 및 모든 맹세 클리어 맹세: Another Force 사용 없이: Tomes.png, 1
+  - 봉인 몬스터 Chaos 처치 및 모든 맹세 클리어 맹세: Zone 사용 없이: Tomes.png, 1
+  - 봉인 몬스터 VH Chaos 처치 및 모든 맹세 클리어 맹세: Aldo 파티 포함: Tomes.png, 2
+  - 복원 레벨 4 달성: Tomes.png, 1
+  - 복원 레벨 24 달성: Tomes.png, 1
+  - 복원 레벨 44 달성: Tomes.png, 1
+  - 복원 레벨 64 달성: Tomes.png, 1
+- 허시의 층. 시간의 제국. Volume 2 (4)
+  - Pinovana Jungle (나무에 Guilty Hades Mecha Action 사용) 북서쪽 경로: Standard_rare.png, 2
+  - Liriam Wastes의 Some Guy에게 Goldfruits 2개 전달 첫 번째 Goldfruit은 Liriam Wastes 상인 옆 나무에 두 번째 Goldfruit은 Respite Kit 캠프장 옆 나무에: Standard_rare.png, 2
+- 땅끝의 포로와 인도의 팔중주 (1)
+  - Saltore Mines West; Horror 뒤 상자: Standard_rare.png, 1
+- 벌룡 공주 기담 II (4)
+  - Forbidden Cave Northwest (2번째 맵, Swim 필요): Standard_rare.png, 1
+  - Primeval Forest (1번째 맵, T. Dragontear Weapon - Piercing 필요): Standard_rare.png, 1
+  - Forbidden Cave (Lance-Seal Chamber로 가는 길, 숨겨진 길, 우상단): Standard_rare.png, 1
+  - Forbidden Cave Southwest (1번째 맵, Fire 필요): Standard_rare.png, 1
+- Wyrmrest Isle - Dragon's Depths (어나더 던전) (3)
+  - 7,500개 수집: Gaiden_serial2.png, 3
+- 벌룡 공주 기담 III (2)
+  - Nopaew Village (심해 잠수 필요): Standard_rare.png, 2
+- 불완전한 낙원 (12)
+  - Proto Eden - Lab Division 5 (우하단, 방향 전환 통로에서 오른쪽): Standard_rare.png, 1
+  - Proto Eden - Calculation Division 2 (우하단 경로 끝): Standard_rare.png, 1
+  - PTL Record 15,500개 수집: Gaiden_galiard2.png, 5
+  - PTL Record 35,000개 수집: Gaiden_galiard2.png, 5
+- 허시의 층. 시간의 제국. Volume 3 (6)
+  - The Sword Hall (2F), 탐지 마법 필요: Standard_rare.png, 1
+  - Effusia Guilty Hades 탐험 (북동쪽 Illusialand 섬): Standard_rare.png, 2
+  - Hamoul Woodlands (우상단, 접근에 필드 마법 필요): Standard_rare.png, 2
+  - Laika: 하단 중앙 (위치: 최북단 Parmonia Meadows): None, 1
+- 허시의 층. 시간의 제국. Volume 4 (1)
+  - Dimensional Fortress Chronos, 맵 1, 상단 줄에서 숨겨진 길로 오른쪽 이동: Standard_rare.png, 1
+- 낙일의 폐허와 광휘의 수호자 (7)
+  - 시련: Trial Home의 Lost Atelier - Gloom 10,000점 이상 클리어: None, 5
+  - Brayk Town 북서쪽 숨겨진 길 상자: Standard_rare.png, 2
+- 다른 하늘의 기억 (20)
+  - 구매: Chocobo Points 2,500개: None, 5
+  - Jewel 10,500개 수집: Collabo09_currency_b.png, 5
+  - Jewel 57,300개 수집: Collabo09_currency_b.png, 5
+  - Jewel 151,300개 수집: Collabo09_currency_b.png, 5
+- 환리경 (5)
+  - 기타: Paw Stamps 1,160개: None, 5
+- 토토 시어터 월드 (어나더 던전) (1)
+  - Mimi Incense Deluxe: Toto's Village 우물의 공룡에서 사용: Standard_rare.png, 1
+- Memory Incarnated Aldo (0)
+  - 맹세: Another Force 사용 없이 클리어: None, 2
+- Memory Incarnated Aldo (0)
+  - 맹세: 3턴 이내 클리어: None, 1
+- Travelers' Curse (0)
+  - 맹세: 1명 이상의 Traveler 아군: None, 2
+- Travelers' Curse (0)
+  - 맹세: 아군 쓰러짐 없이 클리어: None, 1
+- Beast Vares (0)
+  - 맹세: AF 한 번에 500만 데미지: None, 2
+- Beast Vares (0)
+  - 맹세: 아군 쓰러짐 없이: None, 1
+- Zennon Ogre (0)
+  - 맹세: 다른 조건과 동시에: None, 1
+  - 맹세: Aldo 파티 포함: None, 1
+  - 맹세: Free Characters만: None, 2
+- Zennon Ogre (0)
+  - 맹세: Another Style 아군만: None, 1
+  - 맹세: 4명 이하의 아군: None, 1
+- Slash Demon & Cleave Demon (0)
+  - 맹세: 아군 쓰러짐 없이: None, 2
+- Slash Demon & Cleave Demon (0)
+  - 맹세: Another Force 사용 없이: None, 1
+- Chaos (0)
+  - 맹세: Zone 사용 없이: None, 1
+- Chaos (0)
+  - 맹세: Aldo 파티 포함: None, 2
+- Liriam Wastes (0)
+  - 첫 번째 Goldfruit은 Liriam Wastes 상인 옆 나무에: None, 1
+  - 두 번째 Goldfruit은 Respite Kit 캠프장 옆 나무에: None, 2
