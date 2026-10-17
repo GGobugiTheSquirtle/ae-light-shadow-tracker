@@ -55,15 +55,6 @@
 - Characters (2)
   - Clear Crimson Reaper quest 1: 4_q.png, 1
   - Clear Cyan Scyther quest 1: 4_q.png, 1
-- Deluded Beast (0)
-  - Pledge: Clear with no allies getting knocked out: None, 1
-- Deluded Beast (0)
-  - Pledge: Clear with 2 or more Water allies: None, 2
-- Psychic Ego (0)
-  - Pledge: with 2 or more Sword allies: None, 1
-- Psychic Ego (0)
-  - Pledge: with Amy in the party: None, 1
-  - Pledge: with 4 or fewer allies: None, 2
 
 
 ## Luring Shadow (Bow) = 108
@@ -135,14 +126,6 @@
   - Premium Pass : use at Lost and Found Center (center north of map) in Secret Factory: Standard_rare.png, 1
 - Phantom Crystal Dimension (5)
   - Other: 1,600 Paw Stamps: None, 5
-- Ghost King (0)
-  - Pledge: with Amy in the party: None, 1
-- Ghost King (0)
-  - Pledge: without using Another Force: None, 2
-- Hungry Hungry Zorme (0)
-  - Pledge: with 1 or more Beast allies: None, 1
-- Hungry Hungry Zorme (0)
-  - Pledge: with Altena in the party: None, 2
 
 
 ## Luring Shadow (Fists) = 63
@@ -196,26 +179,6 @@
   - Clear Red Clad Flam. quest 1: 4_q.png, 1
   - Clear Undercover Scribe quest 1: 4_q.png, 1
   - Clear Nocturne Ninja quest 1: 4_q.png, 1
-- Karna Genesis (0)
-  - Pledge: Clear with no allies getting knocked out: None, 1
-- Karna Genesis (0)
-  - Pledge: Clear with 1 or more Atelier allies: None, 2
-- Archives Guard (0)
-  - Pledge: with 2 or more Sword allies: None, 1
-- Archives Guard (0)
-  - Pledge: without using Another Force: None, 2
-- Aspid (0)
-  - Pledge: without any ally deploying a Zone: None, 1
-- Aspid (0)
-  - Pledge: without using Another Force: None, 2
-- Peninsula Fulminu (0)
-  - Pledge: without using Another Force: None, 1
-- Peninsula Fulminu (0)
-  - Pledge: with Clarte in the party: None, 2
-- Mimi (0)
-  - Pledge: with no allies getting knocked out: None, 1
-- Mimi (0)
-  - Pledge: Without using Another Force: None, 2
 
 
 ## Luring Shadow (Hammer) = 111
@@ -288,19 +251,6 @@
 - Characters (2)
   - Clear Virtual Reflection quest 1: 4_q.png, 1
   - Clear Thornbound Witch quest 1: 4_q.png, 1
-- King Palsifal (0)
-  - Pledge: within 3 turns: None, 1
-- King Palsifal (0)
-  - Pledge: with 2 or more Wind allies: None, 2
-- Ogre Baron (0)
-  - Pledge: without an ally deploying a Zone: None, 1
-- Ogre Baron (0)
-  - Pledge: with Guildna in the party: None, 1
-  - Pledge: with 4 or fewer allies: None, 2
-- Synth Drone Ver 2.0 (0)
-  - Pledge: within 5 turns: None, 1
-- Synth Drone Ver 2.0 (0)
-  - Pledge: within 3 turns: None, 2
 
 
 ## Luring Shadow (Katana) = 88
@@ -363,35 +313,6 @@
 - Characters (2)
   - Clear Blooming Blade quest 1: 4_q.png, 1
   - Clear Black Clad Sw. quest 1: 4_q.png, 1
-- Time Layer Distortion (0)
-  - Pledge: with 3 or fewer 5★ class allies: None, 2
-- Time Layer Distortion (0)
-  - Pledge: without using Another Force: None, 1
-- Suzaku (0)
-  - Pledge: with only Normal Style alles: None, 1
-  - Pledge: with 4 or fewer allies: None, 1
-- Suzaku (0)
-  - Pledge: with only non-Gallery allies: None, 2
-- Dimensional Destroyer Himika (0)
-  - Pledge: with 1 or more Wind allies: None, 1
-- Dimensional Destroyer Himika (0)
-  - Pledge: with no allies getting knocked out: None, 2
-- Nightmare Nue (0)
-  - Pledge: with 2 or more Eastern allies: None, 2
-- Heavenly Tsukuyomi (0)
-  - Pledge: without any ally deploying a Zone: None, 2
-- Heavenly Tsukuyomi (0)
-  - Pledge: with no allies getting knocked out: None, 1
-- Nightmare Nue (0)
-  - Pledge: with no allies getting knocked out: None, 1
-- Karakuri War Demon - Type Mi (0)
-  - Pledge: with Senya in the party: None, 2
-- Karakuri War Demon - Type Mi (0)
-  - Pledge: with no allies getting knocked out: None, 1
-- Nurarihyon (0)
-  - Pledge: with no allies getting knocked out: None, 1
-- Nurarihyon (0)
-  - Pledge: with only Shadow allies: None, 2
 
 
 ## Luring Shadow (Lance) = 103
@@ -457,23 +378,6 @@
 - Characters (2)
   - Clear Vermillion Whip quest 1: 4_q.png, 1
   - Clear Violet Lancer quest 1: 4_q.png, 1
-- Proto Eden Core (0)
-  - Pledge: Clear within 3 turns: None, 1
-- Proto Eden Core (0)
-  - Pledge: Clear with one or more Synth Human allies: None, 2
-- Beast Angel Geo Anguirus (0)
-  - Pledge: without Support Effect : Singing: None, 1
-- Beast Angel Geo Anguirus (0)
-  - Pledge: after 5 or more turns: None, 1
-  - Pledge: with no allies getting knocked out: None, 2
-- Mask Monster (0)
-  - Pledge: with only Light allies: None, 1
-- Mask Monster (0)
-  - Pledge: within 5 turns: None, 2
-- Haunted Queen Himika (0)
-  - Pledge: with no allies getting knocked out: None, 1
-- Haunted Queen Himika (0)
-  - Pledge: with only Shadow allies: None, 2
 
 
 ## Luring Shadow (Staff) = 275
@@ -606,47 +510,6 @@
   - Firework Bomb : use at the rubble in Incinerator: Standard_rare.png, 1
 - Phantom Crystal Dimension (5)
   - Other: 120 Paw Stamps: None, 5
-- Enduring Echo Feinne (0)
-  - Pledge: Clear with 4 or fewer allies: None, 2
-- Enduring Echo Feinne (0)
-  - Pledge: Clear with no allies getting knocked out: None, 1
-- Comrade's Reflection Galliard and Helena (0)
-  - Pledge: Clear without using Another Force: None, 2
-- Comrade's Reflection Galliard and Helena (0)
-  - Pledge: Clear within 3 turns: None, 1
-- Flame Lord (0)
-  - Pledge: Clear without using Another Force: None, 2
-- Flame Lord (0)
-  - Pledge: Clear within 3 turns: None, 1
-- Synth Hydra (0)
-  - Pledge: with 2 or more Earth allies: None, 2
-- Chronos Menas (0)
-  - Pledge: with Free Characters only: None, 2
-- Chronos Menas (0)
-  - Pledge: with Normal Style allies only: None, 1
-  - Pledge: with 4 or fewer allies: None, 1
-- Synth Hydra (0)
-  - Pledge: with no allies getting knocked out: None, 1
-- Sorcery Soldier (0)
-  - Pledge: with 4 or fewer allies: None, 2
-- Sorcery Soldier (0)
-  - Pledge: without any ally deploying a Zone: None, 1
-- Phantom Eden (0)
-  - Pledge: with only non-Gallery allies: None, 2
-- Phantom Eden (0)
-  - Pledge: with 1 or more Staff allies: None, 1
-- Teyul Menas (0)
-  - Pledge: with only Shadow allies: None, 2
-- Teyul Menas (0)
-  - Pledge: with no allies getting knocked out: None, 1
-- Sinus Iridum (0)
-  - Pledge: with Clarte in the party: None, 2
-- Sinus Iridum (0)
-  - Pledge: within 5 turns: None, 1
-- Kudang (0)
-  - Pledge: Within 5 turns: None, 2
-- Kudang (0)
-  - Pledge: with no allies getting knocked out: None, 1
 
 
 ## Luring Shadow (Sword) = 134
@@ -722,21 +585,3 @@
   - Clear Ruby-Sleeved Merchant quest 1: 4_q.png, 1
 - Phantom Crystal Dimension (5)
   - Other: 3,200 Paw Stamps: None, 5
-- Beast King Guildna (0)
-  - Pledge: with 1 or more Sword allies: None, 1
-  - Pledge: with no allies getting knocked out: None, 1
-- Beast King Guildna (0)
-  - Pledge: without using Another Force: None, 2
-- Sacred Beast (0)
-  - Pledge: with only Guiding Light allies: None, 1
-- Sacred Beast (0)
-  - Pledge: without any ally deploying a Zone: None, 2
-- Gardos (0)
-  - Pledge: with 1 or more Sword allies: None, 1
-  - Pledge: with 1 or more Fire allies: None, 1
-- Gardos (0)
-  - Pledge: within 5 turns: None, 2
-- Mare Marginis (0)
-  - Pledge: without the Support Effect: Singing: None, 1
-- Mare Marginis (0)
-  - Pledge: with Clarte in the party: None, 2

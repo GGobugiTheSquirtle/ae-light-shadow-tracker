@@ -156,7 +156,9 @@ export function translateText(text: string): string {
   const sortedKeys = Object.keys(fullGlossary).sort((a, b) => b.length - a.length);
 
   for (const key of sortedKeys) {
-    const regex = new RegExp(key.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
+    // 단어 단위로만 치환 (Edax → Ed도끼, Cleared → 클리어ed 방지), 복수형 s 는 함께 흡수
+    const escaped = key.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const regex = new RegExp(`(?<![A-Za-z])${escaped}s?(?![A-Za-z])`, 'gi');
     result = result.replace(regex, fullGlossary[key]);
   }
 

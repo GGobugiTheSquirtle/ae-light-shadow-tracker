@@ -29,6 +29,8 @@ export function WeaponSection({ weapon }: WeaponSectionProps) {
     ? Math.round((progress.completed / progress.total) * 100)
     : 0;
   const isComplete = progress.completed === progress.total && progress.total > 0;
+  // 위키 표의 무기별 총계 중 획득처가 목록에 수집되지 않은 개수
+  const unlisted = weapon.total - progress.total;
 
   return (
     <section className={`weapon-section ${isComplete ? 'complete' : ''}`} id={weapon.id}>
@@ -53,6 +55,11 @@ export function WeaponSection({ weapon }: WeaponSectionProps) {
 
       {!collapsed && (
         <div className="weapon-content">
+          {unlisted > 0 && (
+            <p className="weapon-unlisted-note">
+              위키 총계 {weapon.total}개 중 {unlisted}개는 획득처가 목록에 없습니다.
+            </p>
+          )}
           {weapon.sources.map((source) => (
             <SourceSection
               key={source.id}

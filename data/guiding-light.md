@@ -64,14 +64,6 @@
   - Other: 2,000 Paw Stamps: None, 5
 - Toto Theater World (Another Dungeon) (1)
   - T. Toto's Sabre : use at Sword Pedestal in Magical Forest: Standard_rare.png, 1
-- Papa Macminal (0)
-  - Pledge: without any ally deploying a Zone: None, 1
-- Papa Macminal (0)
-  - Pledge: with 4 or fewer allies: None, 2
-- Gail Carrigo (0)
-  - Pledge: with 1 or more Ax allies: None, 1
-- Gail Carrigo (0)
-  - Pledge: with 1 or more Cat lover allies: None, 2
 
 
 ## Guiding Light (Bow) = 132
@@ -150,10 +142,6 @@
   - Edax Moonlight Forest Edge, right: Standard_rare.png, 1
 - Phantom Crystal Dimension (5)
   - Other: 2,600 Paw Stamps: None, 5
-- Berserk Beast King and Berserk Beast Neo Angurius (0)
-  - Pledge: with Guildna in the party: None, 1
-- Berserk Beast King and Berserk Beast Neo Angurius (0)
-  - Pledge: with no allies getting knocked out: None, 2
 
 
 ## Guiding Light (Fists) = 147
@@ -228,23 +216,6 @@
   - Edax Airport, middle 2nd row from top, to right through hidden path: Standard_rare.png, 1
 - Phantom Crystal Dimension (5)
   - Other: 400 Paw Stamps: None, 5
-- Comrade's Reflection Cerrine (0)
-  - Pledge: within 3 turns: None, 1
-- Comrade's Reflection Cerrine (0)
-  - Pledge: without using Another Force: None, 2
-- Phantom Rugal (0)
-  - Pledge: Clear with 1 or more KOF allies: None, 2
-- Phantom Rugal (0)
-  - Pledge: Clear with no allies getting knocked out: None, 1
-- Synth Drone (0)
-  - Pledge: after 10 or more turns: None, 1
-  - Pledge: with no allies getting knocked out: None, 2
-- Synth Drone (0)
-  - Pledge: with 2 or more Fire allies: None, 1
-- Gidrun (0)
-  - Pledge: with Ashtear in the party: None, 2
-- Gidrun (0)
-  - Pledge: with 1 or more Glasses allies: None, 1
 
 
 ## Guiding Light (Hammer) = 87
@@ -305,18 +276,6 @@
   - Edax Spark Forge A Line, top right: Standard_rare.png, 2
 - Phantom Crystal Dimension (5)
   - Other: 1,340 Paw Stamps: None, 5
-- Galliard (0)
-  - Pledge: within 15 turns: None, 1
-- Galliard (0)
-  - Pledge: with 4 or fewer allies: None, 2
-- Ghastly Mizuchi (0)
-  - Pledge: without using Another Force: None, 1
-- Ghastly Mizuchi (0)
-  - Pledge: with 3 or fewer 5-star class allies: None, 2
-- Ice Jailer (0)
-  - Pledge: with no allies getting knocked out: None, 1
-- Ice Jailer (0)
-  - Pledge: Without any ally deploying a Zone: None, 2
 
 
 ## Guiding Light (Katana) = 116
@@ -384,36 +343,6 @@
   - in Staff Room - Access from Lost Woods - Area 2, after rescuing Mimi and checking white glimmer inside Tavern in Toto's Village: Standard_rare.png, 1
 - Phantom Crystal Dimension (5)
   - Other: 30 Paw Stamps: None, 5
-- Comrade's Reflection Azami (0)
-  - Pledge: without using Another Force: None, 2
-- Comrade's Reflection Azami (0)
-  - Pledge: within 3 turns: None, 1
-- Dark Salamander (0)
-  - Pledge: with 2 or more Water allies: None, 2
-- Dark Salamander (0)
-  - Pledge: with 4 or more Light allies: None, 1
-- Hell Ogre, Death Ogre (0)
-  - Pledge: within 5 turns: None, 1
-- Hell Ogre, Death Ogre (0)
-  - Pledge: with Cyrus in the party: None, 1
-  - Pledge: with 4 or fewer allies: None, 2
-- Karakuri (0)
-  - Pledge: with 2 or more Katana allies: None, 1
-- Karakuri (0)
-  - Pledge: within 5 turns: None, 2
-- Miroku Disaster (0)
-  - Pledge: with only Normal Style alles: None, 1
-  - Pledge: with 4 or fewer allies: None, 1
-- Miroku Disaster (0)
-  - Pledge: with only non-Gallery allies: None, 2
-- Karakuri War Demon (0)
-  - Pledge: without any ally deploying a Zone: None, 2
-- Karakuri War Demon (0)
-  - Pledge: with 1 or more Eastern allies: None, 1
-- Rooted Spectortoise (0)
-  - Pledge: without using Another Force: None, 2
-- Rooted Spectortoise (0)
-  - Pledge: with no allies getting knocked out: None, 1
 
 
 ## Guiding Light (Lance) = 146
@@ -507,36 +436,6 @@
   - Clear Noble Blossom quest 1: 4_q.png, 1
 - Phantom Crystal Dimension (5)
   - Other: 770 Paw Stamps: None, 5
-- Wyrmking (0)
-  - Pledge: with 1 or more Arcadia allies: None, 2
-- Wyrmking (0)
-  - Pledge: with no allies getting knocked out: None, 1
-- Wyrmking's Envoy (0)
-  - Pledge: with 1 or more Arcadia allies: None, 2
-- Wyrmking's Envoy (0)
-  - Pledge: with no allies getting knocked out: None, 1
-- Malice Dragon Veilis (0)
-  - Pledge: with no allies getting knocked out: None, 1
-- Malice Dragon Veilis (0)
-  - Pledge: with 1 or more Arcadia allies: None, 2
-- Dragon God's Envoy (0)
-  - Pledge: within 5 turns: None, 2
-- Dragon God's Envoy (0)
-  - Pledge: with Aldo in the party: None, 1
-- King Tsuchino-Bunmei (0)
-  - Pledge: with 4 or fewer party members: None, 2
-- King Tsuchino-Bunmei (0)
-  - Pledge: within 5 turns: None, 1
-- Titan Ogre (0)
-  - Pledge: with only Light allies: None, 2
-- Titan Ogre (0)
-  - Pledge: with no allies getting knocked out: None, 1
-- Nidhogg (0)
-  - Pledge: with Aldo in the party: None, 1
-  - Pledge: with 4 or fewer allies: None, 2
-- Nidhogg (0)
-  - Pledge: within 5 turns: None, 1
-  - Pledge: with 4 or fewer allies: None, 1
 
 
 ## Guiding Light (Staff) = 132
@@ -621,22 +520,6 @@
   - Other: 260 Paw Stamps: None, 5
 - Characters (1)
   - Clear Porcelain Pixie quest 1: 4_q.png, 1
-- Visus Embryo (0)
-  - Pledge: without any ally deploying a Zone: None, 1
-- Visus Embryo (0)
-  - Pledge: with only Light allies: None, 2
-- Big Gonjuro (0)
-  - Pledge: with no allies getting knocked out: None, 1
-- Big Gonjuro (0)
-  - Pledge: after 10 or more turns: None, 2
-- Hoe Ko (0)
-  - Pledge: with no allies getting knocked out: None, 1
-- Hoe Ko (0)
-  - Pledge: After dealing 5 million damage in one AF: None, 2
-- Zomas 86 (0)
-  - Pledge: without using Another Force: None, 1
-- Zomas 86 (0)
-  - Pledge: within 8 turns: None, 2
 
 
 ## Guiding Light (Sword) = 248
@@ -772,33 +655,3 @@
   - Other: 1,160 Paw Stamps: None, 5
 - Toto Theater World (Another Dungeon) (1)
   - Mimi Incense Deluxe : use at dinosaur in the well at Toto's Village: Standard_rare.png, 1
-- Memory Incarnated Aldo (0)
-  - Pledge: Clear without using Another Force: None, 2
-- Memory Incarnated Aldo (0)
-  - Pledge: Clear within 3 turns: None, 1
-- Travelers' Curse (0)
-  - Pledge: Clear with 1 or more Traveler allies: None, 2
-- Travelers' Curse (0)
-  - Pledge: Clear with no allies getting knocked out: None, 1
-- Beast Vares (0)
-  - Pledge: Deal 5 million damage in one AF: None, 2
-- Beast Vares (0)
-  - Pledge: with no allies getting knocked out: None, 1
-- Zennon Ogre (0)
-  - Pledge: with other conditions at the same time: None, 1
-  - Pledge: with Aldo in the party: None, 1
-  - Pledge: with only Free Characters: None, 2
-- Zennon Ogre (0)
-  - Pledge: with only Another Style allies: None, 1
-  - Pledge: with 4 or fewer allies: None, 1
-- Slash Demon & Cleave Demon (0)
-  - Pledge: with no allies getting knocked out: None, 2
-- Slash Demon & Cleave Demon (0)
-  - Pledge: without using Another Force: None, 1
-- Chaos (0)
-  - Pledge: without any ally deploying a Zone: None, 1
-- Chaos (0)
-  - Pledge: with Aldo in the party: None, 2
-- Liriam Wastes (0)
-  - 1st Goldfruit is on the tree next to the Liriam Wastes merchant: None, 1
-  - 2nd Goldfruit is on the tree next to the Respite Kit campsite: None, 2

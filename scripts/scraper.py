@@ -74,6 +74,7 @@ def parse_entry_li(li):
 def parse_obtain_cell(cell):
     """Obtain 셀에서 획득처 정보 추출"""
     sources = []
+    source_li_ids = set()  # 소스로 추가한 li 의 id() (하위 중첩 목록 중복 수집 방지용)
 
     # 모든 ul 가져오기
     all_uls = cell.find_all('ul')
@@ -117,6 +118,11 @@ def parse_obtain_cell(cell):
             count_match = re.search(re.escape(source_name) + r'\s*\(x(\d+)\)', li_text)
             source_count = int(count_match.group(1)) if count_match else 0
 
+            # 이미 추가한 소스 안에 중첩된 (xN) 없는 li 는 소스가 아니라 그 소스의 하위 설명
+            # (예: 성영의 서가 "Defeat the Seal Monster [보스]" 아래 Pledge 목록 → "보스 (0)" 중복 출처가 생겼음)
+            if source_count == 0 and any(id(p) in source_li_ids for p in li.parents):
+                continue
+
             source_data = {
                 'name': source_name,
                 'count': source_count,
@@ -134,6 +140,7 @@ def parse_obtain_cell(cell):
             # 엔트리가 있는 소스만 추가
             if source_data['entries']:
                 sources.append(source_data)
+                source_li_ids.add(id(li))
 
     return sources
 
