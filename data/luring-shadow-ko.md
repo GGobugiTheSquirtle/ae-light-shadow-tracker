@@ -1,0 +1,587 @@
+# Luring Shadow (명계의 부름)
+
+
+## Luring Shadow (Ax) = 80
+
+- The Apex of Logic and Cardinal Scales (4)
+  - KMS City 좌상단 집: Standard_rare.png, 1
+  - Central Tower 30F 상자: Standard_rare.png, 3
+- 천년의 상자, 해신의 신전 (10)
+  - Atlantis Pearls 3,000 수집: Gaiden_shiela.png, 2
+  - Atlantis Pearls 80,000 수집: Gaiden_shiela.png, 2
+  - Atlantis Pearls 230,000 수집: Gaiden_shiela.png, 3
+  - Atlantis Pearls 595,000 수집: Gaiden_shiela.png, 3
+- 시간의 탄광과 꿈꾸는 마을 (5)
+  - Mine 3 상자: Standard_rare.png, 5
+- 잃어버린 경전과 시들지 않는 은꽃 (10)
+  - Seeker Points 500 수집: Gaiden_seeker.png, 2
+  - Seeker Points 15,000 수집: Gaiden_seeker.png, 2
+  - Seeker Points 37,500 수집: Gaiden_seeker.png, 3
+  - Seeker Points 66,000 수집: Gaiden_seeker.png, 3
+- 검의 노래와 실락의 날개 (3)
+  - Spirit Sanctuary B4F 상자 - 호러 Deepsea General 뒤: Standard_rare.png, 3
+- 훈장/기타 (12)
+  - Chaos Fragments 13,500 수집: Copper_Rank_Badge.png, 3
+  - Chaos Fragments 62,100 수집: Copper_Rank_Badge.png, 5
+  - True Scarlet Stones 1,000 수집: Copper_Rank_Badge.png, 2
+  - True Scarlet Stones 12,500 수집: Copper_Rank_Badge.png, 2
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 1 (3)
+  - Dierkuul Island - Factory Tower (1층, 우상단): Standard_rare.png, 2
+  - 잠수: Legendary Treasure Map - #1: None, 1
+- 시간의 요람 (2)
+  - Arboreal Tear 760 수집: None, 2
+- 장성의 도끼와 갑주의 양 (7)
+  - Wulfpack Manor - Vault 오른쪽 상자: Standard_rare.png, 2
+  - 시련: Hard Trial Home's Lost Atelier - Wulfpack Manor 15분 이내 클리어: None, 5
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 2 (2)
+  - 잠수: Lost Delivery Map #9: None, 2
+- 땅끝의 포로와 인도의 팔중주 (1)
+  - Journey's End 상자: Standard_rare.png, 1
+- 성영의 서가 (11)
+  - 봉인 몬스터 Deluded Beast 처치 · 모든 맹세 달성 (맹세: 아군 전투불능 없이): Tomes.png, 1
+  - 봉인 몬스터 VH Deluded Beast 처치 · 모든 맹세 달성 (맹세: 물 속성 아군 2명 이상): Tomes.png, 2
+  - 봉인 몬스터 Psychic Ego 처치 · 모든 맹세 달성 (맹세: 검 아군 2명 이상): Tomes.png, 1
+  - 봉인 몬스터 VH Psychic Ego 처치 · 모든 맹세 달성 (맹세: Amy 파티 편성 / 아군 4명 이하): Tomes.png, 2
+  - 복원 레벨 11 달성: Tomes.png, 1
+  - 복원 레벨 28 달성: Tomes.png, 1
+  - 복원 레벨 31 달성: Tomes.png, 1
+  - 복원 레벨 51 달성: Tomes.png, 1
+  - 복원 레벨 71 달성: Tomes.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 3 (3)
+  - Kirdis Forest (중앙): Standard_rare.png, 1
+  - Prison of Calamity, Rulezzo Caverns, Petalfall Village: Standard_rare.png, 2
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 4 (1)
+  - Edax Hokishi Forest, 위에서 3번째 줄에서 왼쪽, 숨겨진 길 통과: Standard_rare.png, 1
+- 캐릭터 (2)
+  - Crimson Reaper 퀘스트 1 클리어: 4_q.png, 1
+  - Cyan Scyther 퀘스트 1 클리어: 4_q.png, 1
+
+
+## Luring Shadow (Bow) = 108
+
+- The Apex of Logic and Cardinal Scales (5)
+  - 챕터 6: Satellite Stadium Staff Hallway (마지막 구역 - 오른쪽, 문 3개 있는 방): Standard_rare.png, 2
+  - 교환: Wasteland House - Researcher Shop - Wasteland Antibodies 500 × 2회: None, 2
+  - Wasteland Channel Sector A1 (A2에서 되돌아오기, 잔해 1개 제거에 Neutralizer 1개 필요): Standard_rare.png, 1
+- 시간의 탄광과 꿈꾸는 마을 (5)
+  - Mine 2 상자: Standard_rare.png, 5
+- IDA 스쿨 3: 인도의 열매와 잃어버린 전자 소녀 (10)
+  - 친구 8명과 친구 랭크 3 달성: Gift_mail.png, 5
+  - 친구 18명과 친구 랭크 3 달성: Gift_mail.png, 5
+- Crown of the Pale Dawn (4)
+  - Dream Petals 31,400 수집: Collabo05.png, 4
+- 검의 노래와 실락의 날개 (12)
+  - 기타: Merlot Ward 상점. 개당 Prism Dust 500에 판매: None, 10
+  - Lunar Ghost City - Area Davy 상자: Standard_rare.png, 1
+  - Schnaud Castle 2F 서쪽 상자. 위쪽, 결계 뒤: Standard_rare.png, 1
+- 훈장/기타 (14)
+  - Active Magic Elements 4,000 수집: Copper_Rank_Badge.png, 3
+  - Sapient Illusions 4,000 수집: Copper_Rank_Badge.png, 3
+  - Platina Fragments 1,000 수집: Copper_Rank_Badge.png, 2
+  - Levin Fragments 7,000 수집: Copper_Rank_Badge.png, 2
+  - Platina Fragments 16,000 수집: Copper_Rank_Badge.png, 2
+  - Levin Fragments 29,000 수집: Copper_Rank_Badge.png, 2
+- Complex Dream (크로노 크로스) (3)
+  - Underground Fortress - Outdoor Passage 파란 상자. 숨겨진 방 (오른쪽): Standard_rare.png, 3
+- 방황하는 소녀와 영겁의 소용돌이 (6)
+  - Thundering Fortress - War God's Throne (요새 아래 왼쪽, 밧줄 필요. 밧줄은 맵 중앙 오른쪽에 밧줄로 매달린 상자에서 얻으며 자르려면 도끼 필요. 도끼는 Central Accessway에서 획득): Standard_rare.png, 2
+  - Thundering Fortress - Central Base (우상단, 잠긴 문 뒤): Standard_rare.png, 2
+  - The Tower Argentauri - Aurum (왼쪽), Record Storage 내: Standard_rare.png, 2
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 1 (4)
+  - Flotsam Isle (오른쪽, 상점 NPC 근처, <Super Alloy Arm> 능력 필요): Standard_rare.png, 2
+  - 잠수: Shipwreck Central Map - #17: None, 2
+- 시간의 요람 (2)
+  - Arboreal Tear 20 수집: None, 1
+  - Arboreal Tear 400 수집: None, 1
+- 성영의 서가 (10)
+  - 봉인 몬스터 Ghost King 처치 · 모든 맹세 달성 (맹세: Amy 파티 편성): Tomes.png, 1
+  - 봉인 몬스터 VH Ghost King 처치 · 모든 맹세 달성 (맹세: 어나더 포스 미사용): Tomes.png, 2
+  - 봉인 몬스터 Hungry Hungry Zorme 처치 · 모든 맹세 달성 (맹세: Beast 아군 1명 이상): Tomes.png, 1
+  - 봉인 몬스터 VH Hungry Hungry Zorme 처치 · 모든 맹세 달성 (맹세: Altena 파티 편성): Tomes.png, 2
+  - 복원 레벨 7 달성: Tomes.png, 1
+  - 복원 레벨 27 달성: Tomes.png, 1
+  - 복원 레벨 47 달성: Tomes.png, 1
+  - 복원 레벨 67 달성: Tomes.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 2 (2)
+  - 잠수: Map to the Purrate Ship #8: None, 2
+- 땅끝의 포로와 인도의 팔중주 (1)
+  - Tastetesting: Standard_rare.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 3 (2)
+  - Deep Vande 탐사 (Barkhelm Ruin 섬 북쪽 해저): Standard_rare.png, 2
+- 만고의 죄와 불복의 칼날 (3)
+  - Specter Tower 3F, 좌하단 호러 뒤: Standard_rare.png, 1
+  - Specter Tower 6F, 유일한 방 안의 상자: Standard_rare.png, 1
+  - Garden of Petals - Inner Area 2번째 화면, 좌하단: Standard_rare.png, 1
+- Meigoku (어나더 던전) (8)
+  - Sunstruck Alabaster 13,500 수집: Toho_gaiten_7_token.png, 3
+  - Sunstruck Alabaster 34,500 수집: Toho_gaiten_7_token.png, 5
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 4 (3)
+  - Edax Beast King's Castle 1F, 아래 중간 줄에서 숨겨진 길로 왼쪽, 이후 아래로: Standard_rare.png, 1
+  - Edax Zami, 가운데 줄에서 숨겨진 길로 오른쪽: Standard_rare.png, 2
+- 캐릭터 (3)
+  - Selfless Seeker 퀘스트 1 클리어: 4_q.png, 1
+  - Silver Striker 퀘스트 1 클리어: 4_q.png, 1
+  - Hoarfrost Songstress 퀘스트 1 클리어: 4_q.png, 1
+- 토토 시어터 월드 (어나더 던전) (1)
+  - Premium Pass: Secret Factory의 Lost and Found Center(맵 중앙 북쪽)에서 사용: Standard_rare.png, 1
+- 환리경 (5)
+  - 기타: Paw Stamps 1,600: None, 5
+
+
+## Luring Shadow (Fists) = 63
+
+- Little Princess' Little Big Adventure (10)
+  - 챕터 2 상자: Standard_rare.png, 2
+  - 챕터 4 상자: Standard_rare.png, 3
+  - Pond 4에 Uninspiring Ax № 2 던지기 (챕터 6): None, 2
+  - Pond 4에 Uninspiring Ax № 7 던지기 (챕터 6): None, 3
+- 검의 노래와 실락의 날개 (3)
+  - Spirit Sanctuary B2F 상자 - 호러 Deepsea General 뒤: Standard_rare.png, 3
+- 훈장/기타 (6)
+  - Active Magic Elements 3,000 수집: Copper_Rank_Badge.png, 3
+  - Sapient Illusions 3,000 수집: Copper_Rank_Badge.png, 3
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 1 (4)
+  - Rulezzo Underground - Area 2 - (호러 뒤): Standard_rare.png, 2
+  - 잠수: Legendary Treasure Map - #7: None, 2
+- 시간의 요람 (2)
+  - Arboreal Tear 400 수집: None, 1
+  - Arboreal Tear 1,000 수집: None, 1
+- 성영의 서가 (19)
+  - 봉인 몬스터 Karna Genesis 처치 · 모든 맹세 달성 (맹세: 아군 전투불능 없이): Tomes.png, 1
+  - 봉인 몬스터 Karna Genesis 처치 · 모든 맹세 달성 (맹세: Atelier 아군 1명 이상): Tomes.png, 2
+  - 봉인 몬스터 Archives Guard 처치 · 모든 맹세 달성 (맹세: 검 아군 2명 이상): Tomes.png, 1
+  - 봉인 몬스터 VH Archives Guard 처치 · 모든 맹세 달성 (맹세: 어나더 포스 미사용): Tomes.png, 2
+  - 봉인 몬스터 Aspid 처치 · 모든 맹세 달성 (맹세: ZONE 전개 없이): Tomes.png, 1
+  - 봉인 몬스터 VH Aspid 처치 · 모든 맹세 달성 (맹세: 어나더 포스 미사용): Tomes.png, 2
+  - 봉인 몬스터 Peninsula Fulminu 처치 · 모든 맹세 달성 (맹세: 어나더 포스 미사용): Tomes.png, 1
+  - 봉인 몬스터 VH Peninsula Fulminu 처치 · 모든 맹세 달성 (맹세: Clarte 파티 편성): Tomes.png, 2
+  - Memory Mimi 처치 · 모든 맹세 달성 (맹세: 아군 전투불능 없이): Tomes.png, 1
+  - Memory Mimi 처치 · 모든 맹세 달성 (맹세: 어나더 포스 미사용): Tomes.png, 2
+  - 복원 레벨 1 달성: Tomes.png, 1
+  - 복원 레벨 21 달성: Tomes.png, 1
+  - 복원 레벨 41 달성: Tomes.png, 1
+  - 복원 레벨 61 달성: Tomes.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 2 (2)
+  - 잠수: Wandering Miu's Map #8: None, 2
+- 땅끝의 포로와 인도의 팔중주 (1)
+  - 청년의 고백 돕기: Standard_rare.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 3 (2)
+  - Illusory Medal Misprints 25개: Key_item.png, 1
+  - Laika: 좌상단 (위치: Omegapolis Ruins 가장 위쪽 건물): None, 1
+- 만고의 죄와 불복의 칼날 (3)
+  - Kogane Village (습격 후) 서쪽 신사 그을음 청소: Standard_rare.png, 1
+  - Kogane Village (습격 후) 우하단 숨겨진 길: Standard_rare.png, 1
+  - Kogane Village (습격 후) 북서쪽 우물 안: Standard_rare.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 4 (3)
+  - Edax Nuaru Uplands, 좌상단 숨겨진 길 통과: Standard_rare.png, 1
+  - Edax Jasmond Alba District, 좌하단 숨겨진 길 통과: Standard_rare.png, 2
+- 캐릭터 (3)
+  - Red Clad Flam. 퀘스트 1 클리어: 4_q.png, 1
+  - Undercover Scribe 퀘스트 1 클리어: 4_q.png, 1
+  - Nocturne Ninja 퀘스트 1 클리어: 4_q.png, 1
+
+
+## Luring Shadow (Hammer) = 111
+
+- 시간의 탄광과 꿈꾸는 마을 (10)
+  - 첫 Ladder 획득: Gift_mail.png, 5
+  - 첫 Poet's Harp 획득: Gift_mail.png, 5
+- The Celestial Tower and the Shadow Witch (10)
+  - Dark Residue 7,000 수집: Gaiden_medousa.png, 2
+  - Dark Residue 72,500 수집: Gaiden_medousa.png, 2
+  - Dark Residue 222,500 수집: Gaiden_medousa.png, 3
+  - Dark Residue 502,500 수집: Gaiden_medousa.png, 3
+- The Closed-off Open World and the Azure Rebel (10)
+  - Time Layers Force 11,000 수집: Gaiden_galiard.png, 2
+  - Time Layers Force 76,000 수집: Gaiden_galiard.png, 2
+  - Time Layers Force 171,500 수집: Gaiden_galiard.png, 3
+  - Time Layers Force 271,000 수집: Gaiden_galiard.png, 3
+- 검의 노래와 실락의 날개 (12)
+  - Chasselas Crystal Region 상자 (북쪽 맵, 호러 뒤): Standard_rare.png, 1
+  - Crystalline Tower 4F 서쪽 상자: Standard_rare.png, 5
+  - Lunar Ghost City - Area Krafft 상자 - 호러 Dark Side Destroyer 뒤: Standard_rare.png, 3
+  - Schnaud Castle Treasure Room 상자. 3F Dining Room의 악기에서 진입: Standard_rare.png, 3
+- 훈장/기타 (7)
+  - Active Magic Elements 1,000 수집: Copper_Rank_Badge.png, 3
+  - Deep Scarlet Stones 3,500 수집: Copper_Rank_Badge.png, 2
+  - Deep Scarlet Stones 12,500 수집: Copper_Rank_Badge.png, 2
+- Complex Dream (크로노 크로스) (3)
+  - 우물 안 파란 상자. Another Rinde: Standard_rare.png, 3
+- Scythe of Rebirth and the Crimson Flower (7)
+  - 시련: Trial Home's Lost Atelier - Purgatory를 4.5b(45억) 데미지로 클리어: None, 5
+  - 협주 퀘스트 완료 후. Lotus Pond of Nirvana - First Pond의 여인의 영혼: Standard_rare.png, 2
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 1 (1)
+  - 잠수: Shipwreck Central Map - #5: None, 1
+- 시간의 요람 (2)
+  - Arboreal Tear 920 수집: None, 2
+- Mysterious Vortex - Warped Cochlea (어나더 던전) (4)
+  - Time Spindle 2,600 수집: Gaiden_wandergirl.png, 4
+- 성영의 서가 (13)
+  - 봉인 몬스터 King Palsifal 처치 · 모든 맹세 달성 (맹세: 3턴 이내): Tomes.png, 1
+  - 봉인 몬스터 VH King Palsifal 처치 · 모든 맹세 달성 (맹세: 바람 속성 아군 2명 이상): Tomes.png, 2
+  - 봉인 몬스터 Ogre Baron 처치 · 모든 맹세 달성 (맹세: ZONE 전개 없이): Tomes.png, 1
+  - 봉인 몬스터 VH Ogre Baron 처치 · 모든 맹세 달성 (맹세: Guildna 파티 편성 / 아군 4명 이하): Tomes.png, 2
+  - 봉인 몬스터 Synth Drone Ver 2.0 처치 · 모든 맹세 달성 (맹세: 5턴 이내): Tomes.png, 1
+  - 봉인 몬스터 VH Synth Drone Ver 2.0 처치 · 모든 맹세 달성 (맹세: 3턴 이내): Tomes.png, 2
+  - 복원 레벨 3 달성: Tomes.png, 1
+  - 복원 레벨 23 달성: Tomes.png, 1
+  - 복원 레벨 43 달성: Tomes.png, 1
+  - 복원 레벨 63 달성: Tomes.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 2 (2)
+  - 잠수: Ancient Adventurer's Map #3: None, 2
+- 땅끝의 포로와 인도의 팔중주 (1)
+  - 골치 아픈 SigmaTuber 돕기: Standard_rare.png, 1
+- Darkrealm - Wyrmking's Domain (어나더 던전) (3)
+  - 46,500 수집 (원문에 항목명 누락): Gaiden_serial3.png, 3
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 3 (2)
+  - Prison of Calamity, Folkian Wildlands: Standard_rare.png, 2
+- 만고의 죄와 불복의 칼날 (5)
+  - Specter Palace 2F, 우상단: Standard_rare.png, 1
+  - Specter Palace 2F 3번째 화면, 좌상단: Standard_rare.png, 1
+  - Parallel Time Layer - Izana에서 Old Garulean Coins 25개 교환: Standard_rare.png, 3
+- Meigoku (어나더 던전) (8)
+  - Sunstruck Alabaster 7,500 수집: Toho_gaiten_7_token.png, 3
+  - Sunstruck Alabaster 24,900 수집: Toho_gaiten_7_token.png, 5
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 4 (1)
+  - Edax Xeno-Domain Research Sector, 2번째 맵, 가운데 줄에서 왼쪽: Standard_rare.png, 1
+- 환리경 (5)
+  - 기타: Paw Stamps 950: None, 5
+- 토토 시어터 월드 (어나더 던전) (1)
+  - Pro Toto Watch: 카페 메뉴에서 사용: Standard_rare.png, 1
+- 캐릭터 (2)
+  - Virtual Reflection 퀘스트 1 클리어: 4_q.png, 1
+  - Thornbound Witch 퀘스트 1 클리어: 4_q.png, 1
+
+
+## Luring Shadow (Katana) = 88
+
+- 시간의 탄광과 꿈꾸는 마을 (5)
+  - Mine 3 상자: Standard_rare.png, 5
+- Tails of Time and the Brave Four: Tales of Chronographia (5)
+  - Dreamcolor Ink 46,900 수집: Collabo_tales.png, 5
+- 검의 노래와 실락의 날개 (3)
+  - Spirit Sanctuary B1F 상자 (좌상단): Standard_rare.png, 3
+- 훈장/기타 (3)
+  - Sapient Illusions 7,000 수집: Copper_Rank_Badge.png, 3
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 1 (2)
+  - Dierkuul Island - (호러 뒤): Standard_rare.png, 2
+- 시간의 요람 (2)
+  - Arboreal Tear 400 수집: None, 1
+  - Arboreal Tear 1,000 수집: None, 1
+- 성영의 서가 (25)
+  - 봉인 몬스터 VH Time Layer Distortion 처치 · 모든 맹세 달성 (맹세: 5성 클래스 아군 3명 이하): Tomes.png, 2
+  - 봉인 몬스터 Time Layer Distortion 처치 · 모든 맹세 달성 (맹세: 어나더 포스 미사용): Tomes.png, 1
+  - 봉인 몬스터 Suzaku 처치 · 모든 맹세 달성 (맹세: 노멀 스타일 아군만 / 아군 4명 이하): Tomes.png, 1
+  - 봉인 몬스터 VH Suzaku 처치 · 모든 맹세 달성 (맹세: Gallery 외 아군만): Tomes.png, 2
+  - 봉인 몬스터 Dimensional Destroyer Himika 처치 · 모든 맹세 달성 (맹세: 바람 속성 아군 1명 이상): Tomes.png, 1
+  - 봉인 몬스터 VH Dimensional Destroyer Himika 처치 · 모든 맹세 달성 (맹세: 아군 전투불능 없이): Tomes.png, 2
+  - 봉인 몬스터 VH Nightmare Nue 처치 · 모든 맹세 달성 (맹세: Eastern 아군 2명 이상): Tomes.png, 2
+  - 봉인 몬스터 VH Heavenly Tsukuyomi 처치 · 모든 맹세 달성 (맹세: ZONE 전개 없이): Tomes.png, 2
+  - 봉인 몬스터 Heavenly Tsukuyomi 처치 · 모든 맹세 달성 (맹세: 아군 전투불능 없이): Tomes.png, 1
+  - 봉인 몬스터 Nightmare Nue 처치 · 모든 맹세 달성 (맹세: 아군 전투불능 없이): Tomes.png, 1
+  - 봉인 몬스터 VH Karakuri War Demon - Type Mi 처치 · 모든 맹세 달성 (맹세: Senya 파티 편성): Tomes.png, 2
+  - 봉인 몬스터 Karakuri War Demon - Type Mi 처치 · 모든 맹세 달성 (맹세: 아군 전투불능 없이): Tomes.png, 1
+  - Memory Nurarihyon 처치 · 모든 맹세 달성 (맹세: 아군 전투불능 없이): Tomes.png, 1
+  - Memory Nurarihyon 처치 · 모든 맹세 달성 (맹세: Shadow(명) 아군만): Tomes.png, 2
+  - 복원 레벨 13 달성: Tomes.png, 1
+  - 복원 레벨 33 달성: Tomes.png, 1
+  - 복원 레벨 53 달성: Tomes.png, 1
+  - 복원 레벨 73 달성: Tomes.png, 1
+- Mysterious Vortex - Warped Cochlea (어나더 던전) (4)
+  - Time Spindle 5,800 수집: Gaiden_wandergirl.png, 4
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 2 (4)
+  - Labyrinth of Thanatos (1번째 방) 남동쪽 - Guilty Hades의 Hover 능력 필요: Standard_rare.png, 2
+  - Treasure Hunter Association에 Great Treasures 5개 반환: Standard_rare.png, 2
+- 땅끝의 포로와 인도의 팔중주 (1)
+  - Sigma Tower 6F; 호러 뒤 상자: Standard_rare.png, 1
+- The Wings of Destiny - Wryz Saga II (4)
+  - Memhelba (숨겨진 길, 지상 중앙, 2층 왼쪽에서 진입): Standard_rare.png, 1
+  - Primeval Forest (2번째 맵, T. Dragontear Weapon - Edged 필요): Standard_rare.png, 1
+  - Forbidden Cave Southeast (1번째 맵, 숨겨진 길, Dragonvein Heal 지나서): Standard_rare.png, 1
+  - Forbidden Cave Southeast (2번째 맵, Swim 필요): Standard_rare.png, 1
+- Wyrmrest Isle - Dragon's Depths (어나더 던전) (3)
+  - 31,500 수집 (원문에 항목명 누락): Gaiden_serial2.png, 3
+- Burning Kurosagi Castle (어나더 던전) (10)
+  - Moonstruck Obsidian 48,900 수집: Toho_gaiten_3_token.png, 10
+- 만고의 죄와 불복의 칼날 (2)
+  - Inanari Plateau, Cat Shrine 오른쪽 숨겨진 길: Standard_rare.png, 1
+  - Cat Shrine (위층) 숨겨진 길: Standard_rare.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 4 (1)
+  - Dimensional Fortress Chronos, 3번째 맵, 아래쪽 호러 뒤: Standard_rare.png, 1
+- 환리경 (5)
+  - 기타: Paw Stamps 590: None, 5
+- 캐릭터 (2)
+  - Blooming Blade 퀘스트 1 클리어: 4_q.png, 1
+  - Black Clad Sw. 퀘스트 1 클리어: 4_q.png, 1
+
+
+## Luring Shadow (Lance) = 103
+
+- IDA School Part 1: Absolute Zero Chain (10)
+  - Scores 3,000 수집: Gaiden_jade.png, 2
+  - Scores 20,000 수집: Gaiden_jade.png, 2
+  - Scores 110,000 수집: Gaiden_jade.png, 3
+  - Scores 210,000 수집: Gaiden_jade.png, 3
+- 검의 노래와 실락의 날개 (7)
+  - Uncharted Region Verdot The Depths 상자 - 호러 Octo-Monstrosity 뒤: Standard_rare.png, 1
+  - Uncharted Region Verdot The Depths - 2 상자, 남쪽: Standard_rare.png, 1
+  - Uncharted Region Verdot Depths - 3 상자, 남서쪽: Standard_rare.png, 1
+  - Lunar Ghost City - Area Sumner - Rabo(연구소)의 책장: Standard_rare.png, 2
+  - Schnaud Castle 3F 상자. 4F Terrace에서 진입, 결계 뒤: Standard_rare.png, 2
+- 훈장/기타 (14)
+  - Chaos Fragments 29,700 수집: Copper_Rank_Badge.png, 3
+  - Chaos Fragments 71,700 수집: Copper_Rank_Badge.png, 5
+  - Active Magic Elements 5,000 수집: Copper_Rank_Badge.png, 3
+  - Sapient Illusions 5,000 수집: Copper_Rank_Badge.png, 3
+- Complex Dream (크로노 크로스) (3)
+  - Another Karek Swampland 파란 상자 (좌상단): Standard_rare.png, 3
+- The 3000 Realm Ark and the Sea Abyss (13)
+  - Celestial Soul 3,000 수집: Celestialsoul.png, 2
+  - Celestial Soul 32,500 수집: Celestialsoul.png, 2
+  - Celestial Soul 110,000 수집: Celestialsoul.png, 3
+  - Celestial Soul 265,000 수집: Celestialsoul.png, 3
+  - Celestial Soul 505,000 수집: Celestialsoul.png, 3
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 1 (2)
+  - Shore Runner Dinning Car (옆 칸에서 진입, 호러 뒤): Standard_rare.png, 2
+- 시간의 요람 (2)
+  - Arboreal Tear 560 수집: None, 2
+- 성영의 서가 (19)
+  - 봉인 몬스터 Proto Eden Core 처치 · 모든 맹세 달성 (맹세: 3턴 이내): Tomes.png, 1
+  - 봉인 몬스터 VH Proto Eden Core 처치 · 모든 맹세 달성 (맹세: Synth Human 아군 1명 이상): Tomes.png, 2
+  - Trial by Combat: Proto Eden Core 도전: Tomes.png, 3
+  - 봉인 몬스터 Beast Angel Geo Anguirus 처치 · 모든 맹세 달성 (맹세: 지원 효과 Singing 없이): Tomes.png, 1
+  - 봉인 몬스터 VH Beast Angel Geo Anguirus 처치 · 모든 맹세 달성 (맹세: 5턴 이상 경과 후 / 아군 전투불능 없이): Tomes.png, 2
+  - 봉인 몬스터 Mask Monster 처치 · 모든 맹세 달성 (맹세: Light(천) 아군만): Tomes.png, 1
+  - 봉인 몬스터 VH Mask Monster 처치 · 모든 맹세 달성 (맹세: 5턴 이내): Tomes.png, 2
+  - 봉인 몬스터 Haunted Queen Himika 처치 · 모든 맹세 달성 (맹세: 아군 전투불능 없이): Tomes.png, 1
+  - 봉인 몬스터 VH Haunted Queen Himika 처치 · 모든 맹세 달성 (맹세: Shadow(명) 아군만): Tomes.png, 2
+  - 복원 레벨 9 달성: Tomes.png, 1
+  - 복원 레벨 29 달성: Tomes.png, 1
+  - 복원 레벨 49 달성: Tomes.png, 1
+  - 복원 레벨 69 달성: Tomes.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 2 (2)
+  - 잠수: Ancient Adventurer's Map #5: None, 2
+- 땅끝의 포로와 인도의 팔중주 (1)
+  - 가족 재회시키기: Standard_rare.png, 1
+- Wyrmrest Isle - Quadra Wastes (어나더 던전) (3)
+  - 46,500 수집 (원문에 항목명 누락): Gaiden_serial1.png, 3
+- Wyrmrest Isle - Dragon's Depths (어나더 던전) (3)
+  - 46,500 수집 (원문에 항목명 누락): Gaiden_serial2.png, 3
+- A Paradise of Imperfections (13)
+  - Past Xeno-Domain Research Sector (아래쪽 방): Standard_rare.png, 1
+  - KMS East - Underground C (왼쪽, 유리벽 뒤): Standard_rare.png, 2
+  - PTL Record 22,000 수집: Gaiden_galiard2.png, 5
+  - PTL Record 197,000 수집: Gaiden_galiard2.png, 5
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 4 (3)
+  - Transforming Battleship, 2번째 맵, 우하단: Standard_rare.png, 1
+  - Edax Eeza, 우상단 숨겨진 길 통과: Standard_rare.png, 2
+- 캐릭터 (2)
+  - Vermillion Whip 퀘스트 1 클리어: 4_q.png, 1
+  - Violet Lancer 퀘스트 1 클리어: 4_q.png, 1
+
+
+## Luring Shadow (Staff) = 275
+
+- 천년의 상자, 해신의 신전 (5)
+  - Black Pearls 15 수집: Gaiden_shiela_black.png, 5
+- IDA School Part 2: Butterfly's City and Heaven's Cradle (10)
+  - Cocoon's Dreams 3,000 수집: Gaiden_Saki.png, 2
+  - Cocoon's Dreams 40,000 수집: Gaiden_Saki.png, 2
+  - Cocoon's Dreams 115,000 수집: Gaiden_Saki.png, 3
+  - Cocoon's Dreams 265,000 수집: Gaiden_Saki.png, 3
+- 검의 노래와 실락의 날개 (16)
+  - Barbera Untrodden Region 상자 (서쪽 맵): Standard_rare.png, 5
+  - Winged People's Village 상자: Standard_rare.png, 1
+  - Gewuerz Church HQ 2F 상자 (좌상단): Standard_rare.png, 1
+  - Gewuerz Church HQ Corridor 상자 (Rosetta의 심문실): Standard_rare.png, 3
+  - Lunar Ghost City - Area Sumner 상자 - 호러 Dark Side Destroyer 뒤: Standard_rare.png, 4
+  - Schnaud Castle 2F 서쪽 상자. 호러 왼쪽: Standard_rare.png, 2
+- 훈장/기타 (32)
+  - Chaos Fragments 17,100 수집: Copper_Rank_Badge.png, 3
+  - Chaos Fragments 20,700 수집: Copper_Rank_Badge.png, 3
+  - Chaos Fragments 41,700 수집: Copper_Rank_Badge.png, 5
+  - Chaos Fragments 66,900 수집: Copper_Rank_Badge.png, 5
+  - Active Magic Elements 2,000 수집: Copper_Rank_Badge.png, 3
+  - 퀘스트 "Symphony: Complex Dream" Expert 난이도 클리어: Gold_Rank_Badge.png, 5
+  - Deep Scarlet Stones 1,000 수집: Copper_Rank_Badge.png, 2
+  - Deep Scarlet Stones 5,500 수집: Copper_Rank_Badge.png, 2
+  - Dawn Fragments 1,000 수집: Copper_Rank_Badge.png, 2
+  - Dawn Fragments 16,000 수집: Copper_Rank_Badge.png, 2
+- The Cat Beyond its Territory (30)
+  - Catographer: 2번째 Smart Set 과제 완료: 4_q.png, 2
+  - Catographer: 2번째 Wood Warmth Set 과제 완료: 4_q.png, 2
+  - Catographer: 2번째 Wild Set 과제 완료: 4_q.png, 2
+  - Catographer: 2번째 Library Set 과제 완료: 4_q.png, 2
+  - Catographer: 2번째 Eastern Set 과제 완료: 4_q.png, 2
+  - 고양이: Nuaru Uplands 상자: Standard_rare.png, 5
+  - 고양이: Rucyana Sands - Underground Cave 상자 1: Standard_rare.png, 5
+  - 고양이: Rucyana Sands - Underground Cave 상자 2: Standard_rare.png, 5
+  - 고양이: Charol Plains 상자: Standard_rare.png, 5
+- Tales from the East. Return of the Goddess of Time. Volume 3: Conclusion (15)
+  - Pador 여관 뒤 나무 키우기 히든 퀘스트, 6단계: Standard_rare.png, 5
+  - Nazrik, the City of Shadows. 오른쪽 아치 통로, 텔레포트 지점 아래: Standard_rare.png, 5
+  - Nazrik, the City of Shadows. 좌하단 구석의 왼쪽 아치 통로: Standard_rare.png, 5
+- Complex Dream (크로노 크로스) (10)
+  - Growth Star 26,100 수집: Collabo_chrono_cross.png, 5
+  - Growth Star 232,000 수집: Collabo_chrono_cross.png, 5
+- Scythe of Rebirth and the Crimson Flower (4)
+  - Lotus Pond of Nirvana - Fourth Pond 상자. Fifth Pond(하단 중앙)에서 숨겨진 길: Standard_rare.png, 1
+  - Lotus Pond of Nirvana - Seventh Pond 상자 (오른쪽): Standard_rare.png, 1
+  - Lotus Pond of Nirvana - Seventh Pond 상자 (퀘스트 마커 왼쪽). 상자가 Sixth Pond(왼쪽)로 헤엄쳐 이동: Standard_rare.png, 2
+- 방황하는 소녀와 영겁의 소용돌이 (3)
+  - Dust City - Underground (환기 장치를 수리해 연기 찬 방 통과): Standard_rare.png, 2
+  - Dust City - Forbidden Lane - Lab (가운데 보라색 카드키 문 뒤, 오른쪽 Lab): Standard_rare.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 1 (2)
+  - Blistering Isle Gazarak - (위쪽, Materiascanner 능력 필요): Standard_rare.png, 2
+- 시간의 요람 (2)
+  - Arboreal Tear 70 수집: None, 1
+  - Arboreal Tear 360 수집: None, 1
+- 성영의 서가 (46)
+  - Trial by Combat: Daughter of the Cosmos 도전: Tomes.png, 3
+  - Enduring Echo Feinne 처치 · 모든 맹세 달성 (맹세: 아군 4명 이하): Tomes.png, 2
+  - Enduring Echo Feinne 처치 · 모든 맹세 달성 (맹세: 아군 전투불능 없이): Tomes.png, 1
+  - Trial by Combat: Galliard the Rebel and Helena the Mediator 도전: Tomes.png, 3
+  - 봉인 몬스터 VH Comrade's Reflection Galliard and Helena 처치 · 모든 맹세 달성 (맹세: 어나더 포스 미사용): Tomes.png, 2
+  - 봉인 몬스터 Comrade's Reflection Galliard and Helena 처치 · 모든 맹세 달성 (맹세: 3턴 이내): Tomes.png, 1
+  - Trial by Combat: Flame Lord 도전: Tomes.png, 3
+  - 봉인 몬스터 VH Flame Lord 처치 · 모든 맹세 달성 (맹세: 어나더 포스 미사용): Tomes.png, 2
+  - 봉인 몬스터 Flame Lord 처치 · 모든 맹세 달성 (맹세: 3턴 이내): Tomes.png, 1
+  - Trial by Combat: Karna Genesis 도전: Tomes.png, 1
+  - Acteul의 서브퀘스트 "Helping A Friend" 클리어: Tomes.png, 1
+  - Trial by Combat: Travelers' Curse 도전: Tomes.png, 1
+  - Sigma District에서 소년의 인플루언서 퀴즈 만점: Tomes.png, 1
+  - 봉인 몬스터 VH Synth Hydra 처치 · 모든 맹세 달성 (맹세: 땅 속성 아군 2명 이상): Tomes.png, 2
+  - 봉인 몬스터 VH Chronos Menas 처치 · 모든 맹세 달성 (맹세: 무료 캐릭터만): Tomes.png, 2
+  - 봉인 몬스터 Chronos Menas 처치 · 모든 맹세 달성 (맹세: 노멀 스타일 아군만 / 아군 4명 이하): Tomes.png, 1
+  - 봉인 몬스터 Synth Hydra 처치 · 모든 맹세 달성 (맹세: 아군 전투불능 없이): Tomes.png, 1
+  - 봉인 몬스터 VH Sorcery Soldier 처치 · 모든 맹세 달성 (맹세: 아군 4명 이하): Tomes.png, 2
+  - 봉인 몬스터 Sorcery Soldier 처치 · 모든 맹세 달성 (맹세: ZONE 전개 없이): Tomes.png, 1
+  - 봉인 몬스터 VH Phantom Eden 처치 · 모든 맹세 달성 (맹세: Gallery 외 아군만): Tomes.png, 2
+  - 봉인 몬스터 Phantom Eden 처치 · 모든 맹세 달성 (맹세: 지팡이 아군 1명 이상): Tomes.png, 1
+  - 봉인 몬스터 VH Teyul Menas 처치 · 모든 맹세 달성 (맹세: Shadow(명) 아군만): Tomes.png, 2
+  - 봉인 몬스터 Teyul Menas 처치 · 모든 맹세 달성 (맹세: 아군 전투불능 없이): Tomes.png, 1
+  - 봉인 몬스터 VH Sinus Iridum 처치 · 모든 맹세 달성 (맹세: Clarte 파티 편성): Tomes.png, 2
+  - 봉인 몬스터 Sinus Iridum 처치 · 모든 맹세 달성 (맹세: 5턴 이내): Tomes.png, 1
+  - Memory Kudang 처치 · 모든 맹세 달성 (맹세: 5턴 이내): Tomes.png, 2
+  - Memory Kudang 처치 · 모든 맹세 달성 (맹세: 아군 전투불능 없이): Tomes.png, 1
+  - 복원 레벨 18 달성: Tomes.png, 1
+  - 복원 레벨 38 달성: Tomes.png, 1
+  - 복원 레벨 58 달성: Tomes.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 2 (2)
+  - Sakoritas Ruins B2F 남서쪽 길 - 동쪽으로 가면 숨겨진 길 (좌하단에서 오른쪽으로): Standard_rare.png, 2
+- 땅끝의 포로와 인도의 팔중주 (13)
+  - Journey's End 상자: Standard_rare.png, 3
+  - Traveler's Log 10,500 수집: Collabo06.png, 5
+  - Traveler's Log 120,000 수집: Collabo06.png, 5
+- Wyrmrest Isle - Quadra Wastes (어나더 던전) (3)
+  - 31,500 수집 (원문에 항목명 누락): Gaiden_serial1.png, 3
+- The Mists of Myth - Wryz Saga III (2)
+  - Darkrealm Treeline (Darkeater Beast 뒤): Standard_rare.png, 2
+- A Paradise of Imperfections (13)
+  - KMS East - Underground D (왼쪽, 환기구 통로 뒤): Standard_rare.png, 2
+  - Proto Eden - Calculation Floor B (포털로 들어가는 방 안): Standard_rare.png, 1
+  - PTL Record 9,000 수집: Gaiden_galiard2.png, 5
+  - PTL Record 102,000 수집: Gaiden_galiard2.png, 5
+- Darkrealm - Wyrmking's Domain (어나더 던전) (3)
+  - 31,500 수집 (원문에 항목명 누락): Gaiden_serial3.png, 3
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 3 (3)
+  - Prison of Calamity, Wreckage Reef: Standard_rare.png, 2
+  - Laika: 중앙 (위치: Jevan 좌하단): None, 1
+- 만고의 죄와 불복의 칼날 (3)
+  - Parallel Time Layer - Izana에서 Old Garulean Coins 45개 교환: Standard_rare.png, 3
+- Meigoku (어나더 던전) (10)
+  - Sunstruck Alabaster 48,900 수집: Toho_gaiten_7_token.png, 10
+- Crystal of Wisdom and the Secret Castle (13)
+  - Lonely Castle 2F: Standard_rare.png, 3
+  - Blended Wisdom 26,100 수집: Collabo08.png, 5
+  - Blended Wisdom 232,000 수집: Collabo08.png, 5
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 4 (1)
+  - Edax Abyss - Geometria (하단 중앙 느낌표로 표시된 맵): Standard_rare.png, 1
+- Memories of Another Sky (15)
+  - 구매: Chocobo Points 2500: None, 5
+  - Jewel 26,100 수집: Collabo09_currency_b.png, 5
+  - Jewel 112,100 수집: Collabo09_currency_b.png, 5
+- Black Mage Village (1)
+  - Gaia (Moguta 근처): Standard_rare.png, 1
+- 캐릭터 (2)
+  - Dream Weaver 퀘스트 1 클리어: 4_q.png, 1
+  - Jet Tactician 퀘스트 1 클리어: 4_q.png, 1
+- 토토 시어터 월드 (어나더 던전) (1)
+  - Firework Bomb: Incinerator의 잔해에서 사용: Standard_rare.png, 1
+- 환리경 (5)
+  - 기타: Paw Stamps 120: None, 5
+
+
+## Luring Shadow (Sword) = 134
+
+- Two Knights and the Holy Sword (10)
+  - Miglancian Magic Points 3,500 수집: Gaiden_diadora.png, 2
+  - Miglancian Magic Points 40,000 수집: Gaiden_diadora.png, 2
+  - Miglancian Magic Points 180,000 수집: Gaiden_diadora.png, 3
+  - Miglancian Magic Points 420,000 수집: Gaiden_diadora.png, 3
+- First Knight and the Holy Sword (20)
+  - Burning Beast King's Castle 2F 상자: Standard_rare.png, 5
+  - Deliverance Sword 7번째 맵: Standard_rare.png, 5
+  - Ethereal Dewdrops Points 3,000 수집: Gaiden_diadora2.png, 2
+  - Ethereal Dewdrops Points 32,500 수집: Gaiden_diadora2.png, 2
+  - Ethereal Dewdrops Points 110,000 수집: Gaiden_diadora2.png, 3
+  - Ethereal Dewdrops Points 265,000 수집: Gaiden_diadora2.png, 3
+- Tails of Time and the Brave Four: Tales of Chronographia (5)
+  - Dreamcolor Ink 232,000 수집: Collabo_tales.png, 5
+- Bound Wills and the Hollow Puppeteer: Promises, Vows, and Rings (10)
+  - Decayed Thought Leaves 1,200 수집: Collabo_p5_1.png, 2
+  - Decayed Thought Leaves 21,700 수집: Collabo_p5_1.png, 2
+  - Decayed Thought Leaves 74,900 수집: Collabo_p5_1.png, 3
+  - Decayed Thought Leaves 159,400 수집: Collabo_p5_1.png, 3
+- Crown of the Pale Dawn (4)
+  - Dream Petals 11,600 수집: Collabo05.png, 4
+- 검의 노래와 실락의 날개 (4)
+  - Spirit Sanctuary - Records Room 상자: Standard_rare.png, 3
+  - Lunar Ghost City - Area Littrow - Historical Archives의 책장. 퀘스트 Rabbit Security에서 해금: Standard_rare.png, 1
+- 훈장/기타 (15)
+  - Chaos Fragments 4,800 수집: Copper_Rank_Badge.png, 3
+  - Chaos Fragments 34,500 수집: Copper_Rank_Badge.png, 5
+  - Active Magic Elements 7,000 수집: Copper_Rank_Badge.png, 3
+  - Dawn Fragments 3,000 수집: Copper_Rank_Badge.png, 2
+  - Dawn Fragments 23,000 수집: Copper_Rank_Badge.png, 2
+- Complex Dream (크로노 크로스) (3)
+  - New Beast King's Castle Prison 파란 상자, 아이 루트, Escape from Dungeon 이벤트에서 Lie(거짓말) 선택: Standard_rare.png, 3
+- 방황하는 소녀와 영겁의 소용돌이 (2)
+  - Dust City - Forbidden Lane - Lab (중앙 왼쪽, 빨간색 카드키 문 뒤): Standard_rare.png, 1
+  - Dust City - Blacksmith - (!) 표시 퀘스트 완료해 진열품 반환 (맵): Standard_rare.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 1 (4)
+  - Lightspark Hollow Layer 5 - (2번째 구역, 우상단, Materiascanner 능력 필요): Standard_rare.png, 2
+  - 잠수: Legendary Treasure Map - #10: None, 2
+- 시간의 요람 (2)
+  - Arboreal Tear 220 수집: None, 1
+  - Arboreal Tear 1,000 수집: None, 1
+- 성영의 서가 (18)
+  - Trial by Combat: Guildna 도전: Tomes.png, 3
+  - 봉인 몬스터 Beast King Guildna 처치 · 모든 맹세 달성 (맹세: 검 아군 1명 이상 / 아군 전투불능 없이): Tomes.png, 1
+  - 봉인 몬스터 VH Beast King Guildna 처치 · 모든 맹세 달성 (맹세: 어나더 포스 미사용): Tomes.png, 2
+  - 봉인 몬스터 Sacred Beast 처치 · 모든 맹세 달성 (맹세: Guiding Light 아군만): Tomes.png, 1
+  - 봉인 몬스터 VH Sacred Beast 처치 · 모든 맹세 달성 (맹세: ZONE 전개 없이): Tomes.png, 2
+  - 봉인 몬스터 Gardos 처치 · 모든 맹세 달성 (맹세: 검 아군 1명 이상 / 불 속성 아군 1명 이상): Tomes.png, 1
+  - 봉인 몬스터 VH Gardos 처치 · 모든 맹세 달성 (맹세: 5턴 이내): Tomes.png, 2
+  - 봉인 몬스터 Mare Marginis 처치 · 모든 맹세 달성 (맹세: 지원 효과 Singing 없이): Tomes.png, 1
+  - 봉인 몬스터 VH Mare Marginis 처치 · 모든 맹세 달성 (맹세: Clarte 파티 편성): Tomes.png, 2
+  - 복원 레벨 16 달성: Tomes.png, 1
+  - 복원 레벨 36 달성: Tomes.png, 1
+  - 복원 레벨 56 달성: Tomes.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 2 (2)
+  - Labyrinth of Thanatos (Megalovader Labiriveria 다음 방; 1번째 Crumbling Wall에 Guilty Hades Mecha Action 사용): Standard_rare.png, 2
+- 땅끝의 포로와 인도의 팔중주 (1)
+  - Sigma Tower 5F; 경비실: Standard_rare.png, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 3 (4)
+  - Prison of Calamity, Parmonia Meadows 쪽 (오른쪽, 진입에 염동력 필요): Standard_rare.png, 2
+  - Magifactory Tower: Standard_rare.png, 1
+  - Laika: 중앙 오른쪽 (위치: Ritnem 우상단): None, 1
+- Into the Hollow. The Chronos Empire Strikes Back. Volume 4 (1)
+  - Edax Tree of Time, 1번째 맵, 우하단: Standard_rare.png, 1
+- 캐릭터 (4)
+  - Moonlight Flower 퀘스트 1 클리어: 4_q.png, 1
+  - Forlorn Thespian 퀘스트 1 클리어: 4_q.png, 1
+  - Beautiful Stranger 퀘스트 1 클리어: 4_q.png, 1
+  - Ruby-Sleeved Merchant 퀘스트 1 클리어: 4_q.png, 1
+- 환리경 (5)
+  - 기타: Paw Stamps 3,200: None, 5

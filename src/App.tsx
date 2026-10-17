@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import { Sidebar } from './components/Sidebar';
 import { WeaponSection } from './components/WeaponSection';
 import { useChecklistStore, loadChecklistData } from './store/checklistStore';
+import { loadEntryTranslations, t } from './i18n';
 import './index.css';
 
 function App() {
@@ -20,7 +21,8 @@ function App() {
       try {
         const [gl, ls] = await Promise.all([
           loadChecklistData('guiding-light'),
-          loadChecklistData('luring-shadow')
+          loadChecklistData('luring-shadow'),
+          loadEntryTranslations()
         ]);
         setData('guiding-light', gl);
         setData('luring-shadow', ls);
@@ -37,7 +39,7 @@ function App() {
     ? data?.weapons.filter((w) => w.id === currentWeapon)
     : data?.weapons;
 
-  const title = currentType === 'guiding-light' ? 'Guiding Light' : 'Luring Shadow';
+  const title = currentType === 'guiding-light' ? t('guidingLight') : t('luringShadow');
 
   return (
     <div className="app">
@@ -47,19 +49,19 @@ function App() {
         <header className="main-header">
           <h1>✨ {title}</h1>
           <p className="description">
-            Track your weapon light/shadow collection progress
+            {t('trackProgress')}
           </p>
         </header>
 
         {loading ? (
-          <div className="loading">Loading checklist data...</div>
+          <div className="loading">{t('loading')}</div>
         ) : weapons && weapons.length > 0 ? (
           weapons.map((weapon) => (
             <WeaponSection key={weapon.id} weapon={weapon} />
           ))
         ) : (
           <div className="empty-state">
-            <p>No data available</p>
+            <p>{t('noData')}</p>
           </div>
         )}
       </main>

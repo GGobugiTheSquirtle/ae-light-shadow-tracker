@@ -1,6 +1,25 @@
+import { translateText } from './glossary';
+
 export * from './glossary';
 
 export type Language = 'ko' | 'en';
+
+// 항목 라벨 번역 (영문 라벨 → 한국어). public/data/translations.json
+let entryTranslations: Record<string, string> = {};
+
+export async function loadEntryTranslations(): Promise<void> {
+  try {
+    const response = await fetch(`${import.meta.env.BASE_URL}data/translations.json`);
+    entryTranslations = await response.json();
+  } catch (error) {
+    // 번역 파일이 없어도 체크리스트는 동작해야 하므로 용어집 치환으로 대체
+    console.error('Failed to load translations:', error);
+  }
+}
+
+export function translateEntry(label: string): string {
+  return entryTranslations[label] ?? translateText(label);
+}
 
 // 현재 언어 설정 (localStorage에서 관리)
 export function getLanguage(): Language {
